@@ -86,10 +86,24 @@ All construction terms are referenced via the [National Construction Dictionary]
 
 ## Excavation of basements
  - [ ] Why build a basement: (a) cheaper to build closer to the gound, (b) provision of facilities (like plant room, parking and storage), and (c) structural forming as part of the footing.
- - [ ] Basement construction difficulties: (a) type of material being excavated (rock fault planes, shoring of sandy/clay materials), (b) ground water conditions (cost increases when building below water table), (c) cost of battering (to avoid excavation shoring systems), and (d) back-filling of basement walls with imported granular free draining material which resists soil consolidation problems.
+ - [ ] Basement construction difficulties: (a) type of material being excavated (rock fault planes, shoring of sandy/clay materials), (b) ground water conditions (cost increases when building below water table), (c) cost of battering (to avoid excavation shoring systems), and (d) back-filling of basement walls with imported granular free draining material which resists soil consolidation problems using sheet piling, and (e) fault lines in shale foundations.
 - [ ] Basement walls must resist actions: (a) earth pressure (vertical pressure transmitted into horizontal force via 'angle of repose'), and (b) hydrostatic pressure (horizontal pressure and vertical upward pressure).
- - [ ] Methods for building a basement: load bearing walls, deep beams (supporting columns), columns and infill walls (horizontal) and/or floors and infill walls (vertical support).
- - [ ] Basement terminology: open cut, sheet pilin, bored piles, diaphragm walls, seperate retaining walls (soldier/rock anchors and 'progressive basement construction'), deep cellular basement, stiff raft basemen t, solid slab raft, beam and slab raft, formed raft and soil.
+ - [ ] Methods for building a basement: geotextile overlaid and encasing entire basement (to resist hydrostatic pressure leaks, load bearing walls, deep beams (supporting columns), columns and infill walls (horizontal) and/or floors and infill walls (vertical support).
+ - [ ] Basement terminology: open cut, sheet pilin, bored piles, diaphragm walls, seperate retaining walls (soldier/rock anchors and 'progressive basement construction'), deep cellular basement, stiff raft basement, solid slab raft, beam and slab raft, formed raft and soil.
+
+## Shoring systems
+ - [ ] Type of shoring systems: discrete piles with shortcrete walls between piles, contigous piling systems, secant-pile wall system, dead shores, raking shores, sheet piling with shortcrete wall, diaphragm walls aka slurry walls, caissons and copherdams. 
+ - [ ] NB Shortcreting cracking and corrosion is a common problem.
+ - [ ] Underpinning is used for transferring the weight of an existing structure to a new permanent structure (often via a temporary support structure).  Underpinning is used for improving the foundation of an adjoining building, e.g. deep excavations adajent to existing buildings, improving the foundation for additional storeys and/or due to foundation failure from sheering, tree death or drainage.
+ - [ ] Process for underpinnings: (a) soil tests to determine load bearing capacity of soil, (b) engineer design, (c) notify council for permit, (d) notify owner and adjoining properties as per Building Regulations, (e) survey of building including any potential damage (photographic evidence of cracks against ruler, etc), (f) underpinning begins, (g) wegiht of structure taken by shores or jacks, e.g acrow props, (h) order of engineer's instructions followd exactly, (i) council inspections for each new excavation and concrete pour, (j) existing footing wire bruched or scabled prior to grouting, (k) decision on fotting to be repaired or poured anew with reinforcement.  NB legal and insurance engaged throughout.
+
+## Retaining walls
+ - [ ] Job for specialist engineers to calculate the 'angle of repose', e.g. sand angle-of-repose is 30-35 degrees, crushed rock back-fill is 35-40 degrees.
+ - [ ] Gravity walls must assure: (a) pressure on earth at toe of wall is not greater than the earth can resist, i.e. settlement of foundation can lead to overturning, (b) thrust of soil on wall preferably falls inside the middle third of the base, thus ensuring only compressive stresses, and (c) no tendency for walls to slide, or for clay cohesion not to slip because of shear failure. 
+ - [ ] Concrete cantaliver walls for heights up to 8m: "L" shaped wall with earth pressing down on base of wall, the base will be equal to 50% of the height of the wall.  If base is unable to be projected into earth, then the base must be more than 33% of the design height of the wall to resist overturning.  Ribs can be used in addition.
+ - [ ] Concrete counterforts (ribs) walls for walls for wall +8m: monolithic beam and walls as continous slab with points of support called "counterforts" (butresses) which provide vertical support.
+ - [ ] Crib walls for terraces and embankments up to 5m (for walls up to 10m triple width cribs/headers/stretchers are required to achieve adequate mass): are precast concrete boxes filled with soil and battered to a slope of 1:6 (or less than 1:8).  Filling should be course sand, gravel or crushed rock and should extend 900mm behind the crib to form a drainage layer.
+ - [ ] Basement walls: see above basement design requirements as footing/piling within foundations.
 
 
 
