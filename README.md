@@ -14,6 +14,11 @@ All construction terms are referenced via the [National Construction Dictionary]
   * NCC aka BCA = National Construction Code / Building Code of Australia
   * 
 
+## Soil report
+  - [ ] Site classification report (as per AS2870) including: soil type, site description, soil profile, laboratory results, site classification, spot levels, site plans, site photography and permeability test.
+  - [ ] Soil testing (2m deep cores with 100m diameter) to determine design of: (a) footing and slab, (b) column and mullion pads, (c) strip footing and floor slabs.
+  - [ ] Feasability study and report with further investigations to follow for engineering designs.
+
 ## Site preparation for commerical structures:
   - [ ] prepare site for concrete plant conditions
   - [ ] potential equipment: excavators, mobile cranes, dumpers (tracked or rail mounted machines for wet/sloping sites)
@@ -46,7 +51,46 @@ All construction terms are referenced via the [National Construction Dictionary]
  - [ ] Engineer designed retaining walls for piling.
  - [ ] Fill/soil stabalisation: (a) bearing capacity can be increased via removal of poor quality clay/foundation and replaced with +1m of above ^^ fill methods (provided adequate soil settlement prior to beuild commencing); (b) use of lime to stabalise water-logged clay soils, e.g. add up to 10% lime blended and compacted/rolled/vibrated in 150mm layers which reduces plasticity of soil, increases strenth/bearing capacity and drains more freely.  NB must use hydrated lime aka builder's lime (calcium oxide Ca0), NOT agricultural lime (calcium carbonate CaCO3).
 
-## Soil report
-  - [ ] Site classification report (as per AS2870) including: soil type, site description, soil profile, laboratory results, site classification, spot levels, site plans, site photography and permeability test.
-  - [ ] Soil testing (2m deep cores with 100m diameter) to determine design of: (a) footing and slab, (b) column and mullion pads, (c) strip footing and floor slabs.
-  - [ ] Feasability study and report
+## Footings for commercial structures
+ - [ ] Types of footings (below): spread footing, wide strip footing, reinforced concrete pads, continous columns footing, combinedfooting , raft footing, solid footing, beam and slab, cellular, pile footing (friction or displacement piles, end bearing, pile groups).
+ - [ ] Type of piles/piers (below): driven tube piles, toe driven tube piles, timber piles, stell piles, bored piles, cylinder piles, auger-fed piles, jacked piles, rectangular concrete piles, soil compacting piles and pier cylinder+monolith (caison) footings.  Under pinings: continous or piled.
+ - [ ] Spread footing: weak soil and/or heavy lods require wide spread resulting in a thick mass of concrete which are excessively deep
+ - [ ] Wide strip footing: for load-bearing walls including brick/concrete for multi-storey buildings.
+ - [ ] Reinforced concrete pads footings: reinforced rectangular slab carrying a single column.
+ - [ ] Continous column footing: supports line of columns via combined footing, which is different than continous strip footing which is for load-bearing brick/concrete panels.
+ - [ ] Combined footing: cantilever footing + balanced base footing (used as alternative to trapevoidal combined footing slab, or for providing a footing when a column position is not directly below, e.g. when placed clost to an adjoining property wall.
+ - [ ] Raft footings (below are large slab footings to cover the whole or a large part of the site).
+ - [ ] Solid slab raft: reinforced in both directions 't' rebar ties.
+ - [ ] Beam and slab raft: thick (300mm) slab on floor with beams projecting above it.
+ - [ ] Cellular raft: for commercial high stress rigidity (deep 900mm) with both top and bottom slabs with edge intermediate beams in both directions forming a hollow cellular raft.
+ - [ ] Normal cellular raft: basements encased slab which is monolithic and diveds entire basement into cellular compartments.
+
+## Piling for commercial structures
+ - [ ] Factors for utiling pilings: (a) load bearing capacity of soil (friction of pile), (b) high water table, (c) type of structure being built, (d) geological conditions found on site, e.g. to reach bedrock like foundation aka 'end bearing' on limestone or friction of clay on pile to retain position, (e) special design needs, e.g. resistence to slip, (f) specification/standards relating to construction type.
+ - [ ] Type of piles: displacement piles, Low non-displacement piles, bored piles, contigous piling, sheet piling, steel universal section piles, steel tubular piles, timber piles, pre-stressed square concrete piles, prefabricated concrete piles, prefabricated cylinder piles, rock anchors and soil, revetment walls, soldier piles and screw piles with anchors.
+ - [ ] Piling terminology: ground surface elevation, cut off elevation (finished elevation for top of pile), pile length driven (length of pile between cut-off-elevation and tip-elevation), bottom tip elevation, penetration (from gound surface, bottom of excavation and scour elevation), scour elevation (level of water line) reference elevation (fixed point of the template / string line, used to observe pile relative to a fixed point), bottom of excavation, etc. Piles are tied together using a bent cap, and connected to the structure via a pile cap.
+ - [ ] Process for installing piles (below) 
+ - [ ] Preplan: (a) pile installation plan shoing tools and moethods for installing piles (submitted 30 days prior to operations), including (b) list of equipment, (c) method for determining hammery energy in field, (d) drails on followers, templates and load test equipment, (e) sequence of driving piles and schedule including test piles, (f) details to protect existing structure in vicinity, (g) required shop drawing for piles, cofferdams, etc, (h) methods to present displacement of plumb and battered piles, (i) details on proposed splices, and (j) specific engineer requirements.
+ - [ ] Test pile program: exploratory piles which are driven harder/deeper but of the same type/size to determine: (a) safe bearing values of the piles, (b) nature of the subsurface soils and driving resistence characteristics of strata, (c) legths of piles required for permanent piles, (d) amount of work to ontain minimum penetration, (e) ability of the driving system for the job, (f) ascertain need for point protection on the piles.  A geotechnical engineer monitors utilising Pile Driver Analyzer (PDA) equipment to generate the 'driving criteria letter'.
+ - [ ] Issue 'Driving Criteria Letter' sets the required: (a) blow couts based on hammer engergy stroke (control stresses) during early driving and 'practical refusal', and (b) hammer/cushion equipment and material used for production pile program, which includes guidelines for pile/hammer cushion replacement.
+ - [ ] Issue 'Pile Lengths Letter' authorising pile lengths so Contractor can order the correct length of concrete piles from the pre-stres yard.
+
+## note on screw piles
+  - [ ] Screw piles have a lengthy history of use in difficult conditions including sea piers and other harsh conditions.  
+  - [ ] Screw pile use in commercial construction: replacing bored piers and CFA piles, replacing driven piles, replacing blinding concrete, replacing concrete pads and stumps for timber floors, load capacities up to 2400Kn ultimate, unlimited length potential, commercial high rise up to 6 storeys, angle of repose for easements and sewer and for eco-sensitive sites.
+  - [ ] Screw pile use in civil construction: foundations for light poles and transmission towers, foundations for signs, foundations for bridges and walkways, ground and land slip stabilisation, foundations for shade structures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
