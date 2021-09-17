@@ -75,12 +75,21 @@ All construction terms are referenced via the [National Construction Dictionary]
  - [ ] Issue 'Driving Criteria Letter' sets the required: (a) blow couts based on hammer engergy stroke (control stresses) during early driving and 'practical refusal', and (b) hammer/cushion equipment and material used for production pile program, which includes guidelines for pile/hammer cushion replacement.
  - [ ] Issue 'Pile Lengths Letter' authorising pile lengths so Contractor can order the correct length of concrete piles from the pre-stres yard.
 
-## note on screw piles
-  - [ ] Screw piles have a lengthy history of use in difficult conditions including sea piers and other harsh conditions.  
+### Note on durability of screw piles
+  - [ ] Screw piles have a lengthy history of use in difficult conditions including sea piers and other harsh conditions throughout the world.
   - [ ] Screw pile use in commercial construction: replacing bored piers and CFA piles, replacing driven piles, replacing blinding concrete, replacing concrete pads and stumps for timber floors, load capacities up to 2400Kn ultimate, unlimited length potential, commercial high rise up to 6 storeys, angle of repose for easements and sewer and for eco-sensitive sites.
   - [ ] Screw pile use in civil construction: foundations for light poles and transmission towers, foundations for signs, foundations for bridges and walkways, ground and land slip stabilisation, foundations for shade structures.
 
+### Dewatering and pressure belief during excavation
+ - [ ] Dewatering is used for small excavation and dense well-graded or cemented soils.
+ - [ ] Type of dewatering: sheeting / open pumping, deep well sumps, wellpoint systems (most common), pressure relief wells, electrical drainage via electro osmosis.
 
+## Excavation of basements
+ - [ ] Why build a basement: (a) cheaper to build closer to the gound, (b) provision of facilities (like plant room, parking and storage), and (c) structural forming as part of the footing.
+ - [ ] Basement construction difficulties: (a) type of material being excavated (rock fault planes, shoring of sandy/clay materials), (b) ground water conditions (cost increases when building below water table), (c) cost of battering (to avoid excavation shoring systems), and (d) back-filling of basement walls with imported granular free draining material which resists soil consolidation problems.
+- [ ] Basement walls must resist actions: (a) earth pressure (vertical pressure transmitted into horizontal force via 'angle of repose'), and (b) hydrostatic pressure (horizontal pressure and vertical upward pressure).
+ - [ ] Methods for building a basement: load bearing walls, deep beams (supporting columns), columns and infill walls (horizontal) and/or floors and infill walls (vertical support).
+ - [ ] Basement terminology: open cut, sheet pilin, bored piles, diaphragm walls, seperate retaining walls (soldier/rock anchors and 'progressive basement construction'), deep cellular basement, stiff raft basemen t, solid slab raft, beam and slab raft, formed raft and soil.
 
 
 
