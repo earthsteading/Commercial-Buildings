@@ -1,0 +1,2 @@
+# commercial-buildings
+checklists for commercial structures including Class 2-9: apartments, boarding/guest house, motels, hotels, jail, school, care facility, caretaker, professional/commercial offices, shops, restaturants, cafes, kiosk, laundry, hair-dresser, market, showroom, carparks, warehouse, storage, wholesale, factory, assembly, packagin, laboratory, mechanic workshop, data centres, healthcare, assembly and aged care
