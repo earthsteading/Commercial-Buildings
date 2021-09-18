@@ -65,7 +65,7 @@
   - [ ] Screw pile use in commercial construction: replacing bored piers and CFA piles, replacing driven piles, replacing blinding concrete, replacing concrete pads and stumps for timber floors, load capacities up to 2400Kn ultimate, unlimited length potential, commercial high rise up to 6 storeys, angle of repose for easements and sewer and for eco-sensitive sites.
   - [ ] Screw pile use in civil construction: foundations for light poles and transmission towers, foundations for signs, foundations for bridges and walkways, ground and land slip stabilisation, foundations for shade structures.
 
-### Dewatering and pressure belief during excavation
+### Dewatering and pressure relief during excavation
  - [ ] Dewatering is used for small excavation and dense well-graded or cemented soils.
  - [ ] Type of dewatering: sheeting / open pumping, deep well sumps, wellpoint systems (most common), pressure relief wells, electrical drainage via electro osmosis.
 
