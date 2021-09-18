@@ -1,7 +1,7 @@
 # structural materials for external load-bearing walls in commercial buildings
 
 Structural materials:
- - [ ] timber
+ - [x] [timber]()
  - [ ] concrete
  - [ ] steel
  - [ ] earth
