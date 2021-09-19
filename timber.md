@@ -1,4 +1,5 @@
-# TIMBER
+# Timber for commercial building structures
+
 Standards utilised in the below checklists:
  - AS5604 timber natural durability ratings
  - AS1604 specification for preservative treatment
