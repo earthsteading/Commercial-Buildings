@@ -2,6 +2,7 @@
 
 ## Standards
  - AS1012 methods for testing concrete
+ - AS3610 concrete finishes
 
 ## History
 Abridged history of cement heritage in Australia
@@ -60,7 +61,13 @@ The process for manufacturing (Portland) cement includes:
 
  ## Concrete construction
   - [ ] Concrete layers should be placed in horizontal layers, less than 600mm deep and vibrated/worked to release air and compact into corners of the formwork.  Each layer below should be soft enough to chemically bind to the layer below.  If concrete contains 10% of air voids it is half the strength it could be
-  - [ ] Curing concrete is hardened by silicate gels reacting to hydration which causes exothermic heat in three stages: (a) plastic (workability), (b) setting (cohesiveness), (c) hardening (strength+durability).
+  - [ ] Curing concrete is the hardening of silicate gels reacting to hydration which causes exothermic heat in three stages: (a) plastic (workability), (b) setting (cohesiveness), (c) hardening (strength+durability).
+  - [ ] Accelerator agents (like calcium dioxide) can increase strength and are necessary for alpine cold weather climates where freezing water can crack concrete before it compacts.
+  - [ ] Retarders can slow the stiffening of concrete, i.e. calcium lignosolphate, citric acid, sucrose (sugar), etc.
+  - [ ] AS3610 defines 5 classes of finishes with class 1,2 and 3 for typical architectural finishes on visible display; and, class 4 & 5 for non-visible concrete like footings and concrete frames. Form liners are used as molds to produce different aesthetic patterns. Retarders can be utilised for different textures and colour, e.g. oxidising the cement for earth tones.  Tooling for finishes (bushhammering, point tooling, abrasive blasting and hammered nib) must not exceed 8mm with test results verified by a panel prior to proceeding.
+  - [ ] Pigments come in the form of granules, powders and liquids which bind into cement like other aggregates.
+ 
+ 
  
 
 
