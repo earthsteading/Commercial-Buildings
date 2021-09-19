@@ -1,5 +1,8 @@
 # Concrete for commercial building structures
 
+## Standards
+ - AS1012 methods for testing concrete
+
 ## History
 Abridged history of cement heritage in Australia
  - Cement formulated by the Romans and Greeks was made of calcinated gypsum and limestone.  Broken brick was embedded in pozzalanic (siliceous alumimnous) lime mortar and exposed to moisture and calcium hydroxide).  Essentially, the 'cementatious matrix' consisted of lime putty mixed with brick dust or volcanic ash and water.
@@ -53,7 +56,12 @@ The process for manufacturing (Portland) cement includes:
  - [ ] When making concrete, the cement paste (cement+water) absorbs hydration which creates an exothermic chemical reaction which binds the cement to the aggregate (metamorphic quartz, igneous basalt, sedimentary sand(stone) and/or artificial inorganics like crushed brick, scoria, washed river gravel and recycled concrete).  1% too much water weakens the chemical bonds to the aggregate.
  - [ ] Aggregate is gravimetrically weighed (batched) and must be accurately mixed with concrete within a 2% tolerance.
  - [ ] Cement compressive strength is graded based on ratio of water to cement, i.e. Class A cement has 0.5 water/cement ratio which results in a compressive strength of 18.5MPa in 7 days and 30MPa in 28 days.
- - [ ] Ratios of <cement:sand:stone> to <water> determine the compressive strength ergo construction use, e.g. a mix of <1xCement + 1xSand + 2xStone> would be weighed and then 2/5th water by weight added, resulting in a compressive strength of 40MPa (after 28 days curing), which can be used for heavy duty floor surfacing and pre-stressed concrete.
+ - [ ] Ratios of <cement:sand:stone> to <water> determine the compressive strength ergo construction use, e.g. a mix of <1xCement + 1xSand + 2xStone> would be weighed and then 2/5th water by weight added, resulting in a compressive strength of 40MPa (after 28 days curing), which can be used for heavy duty floor surfacing and pre-stressed concrete.  Different ratios of ingredients result in different construction uses, e.g. high strength structural concrete, footing concrete, lean mix road concrete, mass wall concrete, blinding concrete, etc.
+
+ ## Concrete construction
+  - [ ] Concrete layers should be placed in horizontal layers, less than 600mm deep and vibrated/worked to release air and compact into corners of the formwork.  Each layer below should be soft enough to chemically bind to the layer below.  If concrete contains 10% of air voids it is half the strength it could be
+  - [ ] Curing concrete is hardened by silicate gels reacting to hydration which causes exothermic heat in three stages: (a) plastic (workability), (b) setting (cohesiveness), (c) hardening (strength+durability).
+ 
 
 
 
