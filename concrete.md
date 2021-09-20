@@ -2,6 +2,7 @@
 
 ## Standards
  - AS1012 methods for testing concrete
+ - AS1379 specification and supply of concrete
  - AS3610 concrete finishes
  - AS3600 concrete structures
  - AS3850 Tilt-up concrete construction
@@ -11,7 +12,7 @@
  - T50 The cement and concrete assocation of Australi tilt-up construction notes (1997)
 
 ## History
-Abridged history of cement heritage in Australia
+Abridged history of cement utili9sation in Australia
  - Cement formulated by the Romans and Greeks was made of calcinated gypsum and limestone.  Broken brick was embedded in pozzalanic (siliceous alumimnous) lime mortar and exposed to moisture and calcium hydroxide).  Essentially, the 'cementatious matrix' consisted of lime putty mixed with brick dust or volcanic ash and water.
  - 1790 - 1824 the British in Portland Dorset begin manufacturing dependable hydraulic cement whereby lime with burnt clay would set under water.
  - 1759 the Eddystone Lighthouse footingsin the English Channel 
@@ -19,17 +20,15 @@ Abridged history of cement heritage in Australia
 
 ### Advantages
 The advantages of concrete in comparison to other primary construction materials (timber, steel, earthen):
- - [ ] Widespread use due to cheapness
+ - [ ] Widespread use due to cheapness to produce and speed of construction
  - [ ] Maitenance (surface wear) is relatively low, e.g. no need to paint regularly
- - [ ] Highly resistent to fire, especially in comparison to steel and/or treated timber
+ - [ ] Highly resistent to fire (4 hour fire resistence if 165mm thick), especially in comparison to steel and/or treated timber
  - [ ] Elastic modulus is high, e.g. concrete is 1/10th as likely to deform from compression compared to steel
- - [ ] Easily customisable via use of moulds to create any desired shape/dimension
+ - [ ] Easily customisable via use in moulds to create any desired shape/dimension
  - [ ] Easy to increase strength via use of additional internal steel
- - [ ] Impermeable to weather actions.
+ - [ ] Durable: impermeable to weather actions.
  - [ ] The gradual cooling of cement results in efflorescense, whereby the salt coats the external surface.
  - [ ] Easy to cosmetically repair via patching.
- - [ ] Poor thermal insulation.
- - [ ] Struturally weaked by fire.
 
 ### Disadvantages
 The disadvantages of concrete in comparison to other primary construction materials (timber, steel, earthen):
@@ -41,6 +40,8 @@ The disadvantages of concrete in comparison to other primary construction materi
  - [ ] For longevity, consistent ingredients and preparation are required.
  - [ ] Suseptable to cavitation (air pockets), which decrease structural rigidity.
  - [ ] Suseptable to spalling (cracking aka concrete cancer) due to water shrinking and expanding.
+ - [ ] Poor thermal insulation, but R-value is higher than timber and masonry.
+ - [ ] Struturally weaked by fire.
 
 ## Requirements for use
 To create "good concrete" the careful composition of cement, water, fine/coarse aggregate must be mixed, assuring consistency of:
@@ -75,26 +76,27 @@ The process for manufacturing (Portland) cement includes:
   - [ ] Pigments come in the form of granules, powders and liquids which bind into cement like other aggregates.
  
  ### Precast pop-up concrete
-  - [ ] Cast _off-site_ concrete panels are made via a qualitry control factory process in smooth steel molds and cured in storage, delivered to the building site (JIT) and installed with specifically engineered fasteners and fixings via a cranelifting them into place.  Braces are used (knee, lateral, end and main brace) along with anchors (tilt prop foot anchor and lifting lugs) to place the panels prior to assembly (using panel ferrules, sealants, etc)
-  - [ ] Cast _on-site_ concrete panels are cast atop other panels until cured and crane lifted into place.  This method while requiring a large on-site plant fopotprint is cost effective and requires less exerptise for transport. Chemicals are often used to accelerate drying process and to create a sealant to keep out moisture while the panel is curing.
-  - [ ] Panel thickness is usually 150-250mm.  Safety is a significant concern given the fatal risk of a panel falling during it's tilt-up phase.  Construction workers are 150% more likely to experience an accident at work. 
-  - [ ] Type of pre-cast panels: (a) cladding/curtain walls for enclosing the buildiong envelope from wind/seismic forces as they don't transfer vertical loads, e.g. walls panels, window wall units, spandrels, mullions and column covers, (b) load-bearing walls for strength/stability of structure, (c) shear walls for lateral loads esp when combined with diaphragam action of floor construction; and (d) formwork for cast-in-place concrete usually for visible aesthetic.
-  - [ ] Support/anchorage systems for gravity/lateral connections between panels are tested against: strength, ductility, volume change accomodations, durability, fire resistance and constructability.
-  - [ ] Joints and joint treament are measured against: structural, thermal, expansion, differential movement durability and water prevention.
-  - [ ] Thermal performance of panels is primarily determined by their thickness.  Structural weaknesses can result from fire and can collapse outward if steel joints are compromised (as opposed to un-reinforced masonry which 'progressively fails' vs tip-over).
+ - [ ] Cast _off-site_ concrete panels are made via a qualitry control factory process in smooth steel molds and cured in storage, delivered to the building site (JIT) and installed with specifically engineered fasteners and fixings via a cranelifting them into place.  Braces are used (knee, lateral, end and main brace) along with anchors (tilt prop foot anchor and lifting lugs) to place the panels prior to assembly (using panel ferrules, sealants, etc)
+ - [ ] Cast _on-site_ concrete panels are cast atop other panels until cured and crane lifted into place.  This method while requiring a large on-site plant fopotprint is cost effective and requires less exerptise for transport. Chemicals are often used to accelerate drying process and to create a sealant to keep out moisture while the panel is curing.
+ - [ ] Panel thickness is usually 150-250mm.  Safety is a significant concern given the fatal risk of a panel falling during it's tilt-up phase.  Construction workers are 150% more likely to experience an accident at work. 
+ - [ ] Type of pre-cast panels: (a) cladding/curtain walls for enclosing the buildiong envelope from wind/seismic forces as they don't transfer vertical loads, e.g. walls panels, window wall units, spandrels, mullions and column covers, (b) load-bearing walls for strength/stability of structure, (c) shear walls for lateral loads esp when combined with diaphragam action of floor construction; and (d) formwork for cast-in-place concrete usually for visible aesthetic.
+ - [ ] Support/anchorage systems for gravity/lateral connections between panels are tested against: strength, ductility, volume change accomodations, durability, fire resistance and constructability.
+ - [ ] Joints and joint treament are measured against: structural, thermal, expansion, differential movement durability and water prevention.
+ - [ ] Thermal performance of panels is primarily determined by their thickness.  Structural weaknesses can result from fire and can collapse outward if steel joints are compromised (as opposed to un-reinforced masonry which 'progressively fails' vs tip-over).
  - [ ] Approaches for resisting collapse from fire (resulting heat gradient accross panel will cause the corner to curvve away from the cooler panel midpoint): (a) panels to stand independtly of steel joint framing, (b) design steel joints to not fail during a fire.  Panels and joints must be engineered accordingly, e.g. a tall 2.5m panel would need to be supported by a column with a bending capacity of 50kN-m. Short concerent panels >2.5m would be connected to a supporting column structure (10m spacing) at all four corners via welded flanges, allowing the framework to flex but assuring the panels don't disengage from the supporting columns during a fire.
-  - [ ] Panels connected at the top and the bottom must have two connections to the raker members (>2m spacing) or be designed as a single unit with interlocking panels.
-  - [ ] End walls columns supported by lighweight columns (with a bending capacity of >50kN-m) must be ridigly conencted to the column/mullion and roof members.
-  - [ ] External walls connected to strong columns (<50kN-m) should be connected at the top by flexible connections, which would assure the panels remain upright in fire.
-  - [ ] Acoustics: if joints are not well sealed sound transmission can be increased.
-  - [ ] Panels will be finished using techniques like: sandblasting, exposing aggregate, acid washing, bush hammering and sealants.
-  - [ ] Panel erection is when the panel is at most risk to future problems arising, e.g. anchors used to attach panels can result in panel cracking, displacements or other distress conditions which may not become evident in years.  Quality control of assembly is paramount.
+ - [ ] Panels connected at the top and the bottom must have two connections to the raker members (>2m spacing) or be designed as a single unit with interlocking panels.
+ - [ ] End walls columns supported by lighweight columns (with a bending capacity of >50kN-m) must be ridigly conencted to the column/mullion and roof members.
+ - [ ] External walls connected to strong columns (<50kN-m) should be connected at the top by flexible connections, which would assure the panels remain upright in fire.
+ - [ ] Acoustics: if joints are not well sealed sound transmission can be increased.
+ - [ ] Panels will be finished using techniques like: sandblasting, exposing aggregate, acid washing, bush hammering and sealants.
+ - [ ] Panel erection is when the panel is at most risk to future problems arising, e.g. anchors used to attach panels can result in panel cracking, displacements or other distress conditions which may not become evident in years.  Quality control of assembly is paramount.
  - [ ] Maitenance of panels (every 7-20 years) include reapplication of sealants, joint corrosion and cracking.
- - [ ] Pre-cast panels must be design for transportation loads (erection loads) and in-service loads, e.g.   'strong-backs' may be required by the engineer during transport and tilt-up. Bracing inserts are installed into panel correctly spaced, including: ground release inserts, solid ferrule inserts, PVC ferrule chairs, grout tube, plastic moulds, shipaks, starter bars, A minimum of 2.5 lifting inserts per lift are required by AS3850 and accompanied by a certification letter from the engineer.
- - [ ] 
-      
-                                                             
-                                                             
-                                                             
-                                                             
+ - [ ] Pre-cast panels must be design for transportation loads (erection loads) and in-service loads, e.g. 'strong-backs' may be required by the engineer during transport and tilt-up. Bracing inserts are installed into panel correctly spaced, including: ground release inserts, solid ferrule inserts, PVC ferrule chairs, grout tube, plastic moulds, shipaks, starter bars, A minimum of 2.5 lifting inserts per lift are required by AS3850 and accompanied by a certification letter from the engineer.
+ - [ ] Minimum concrete strength = 25MPa, which usually requires a 28 day curing period.
+ - [ ] The manufacturer will provide a letter of certification for concrete panels against the criteria from AS1379, including: (a) conrete specification, (b) minimum final concrete strength after 18 days, (c) results of a sampling program testing MPa strength, (d) casting dates for each panel, and earliest date for panel to be lifted, (e) design drawings with placement of panel in-situ as part of structure, (f) instructions for lifting/installing, (g) design layout for positioning panels on footings/slab, (h) overall layout of structure with bracing removed and permanent joint connections detailed.
+ - [ ] Panel drawings should include: (a) date and issue number of drawing, (b) location, orientation and depth of lifting and corresponding inserts, (c) project location, (d) surface finish, (e) panel number and panel mass, (f) dimensional tolerances, (g) panel dimensions and centre of mass, (h) type and brand of lifting inserts, (i) type, size and locatino of steel or other reinforcements, (j) required concrete cover for reinforcement steel, (k) stron-back braces and fixing inserts details (if required), (l) concrete strength required for for lifting and as part of the structure as per AS3600, (m) additional instructions for lifting inserts, e.g. edge distances and proximity of reinforcement.
+ - [ ] Panel erection drawings should include: (a) date and issue number of drawing, (b) project location, (c) position of brace connection points on the panel and the ground, (d) brace specifications and/or capacities, (e) levelling pad detials, (f) details for brace footings including dimensions, location, anchor, type and concrete strength at time of erection, and (g) details on keen and lateral bracing (if applicable).
+                                                            
+    
+             
                                                              
