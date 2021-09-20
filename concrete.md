@@ -57,7 +57,6 @@ To create "good concrete" the careful composition of cement, water, fine/coarse 
  - [ ] Design density and understanding use for types of lightweight concrete
  - [ ] Efficient curing facilities and tools
 
-
 ## Manufacturing
 The process for manufacturing (Portland) cement includes:
  - [ ] Cement oxides: 60-66% lime (CaO) + 19-24% Silican (SiO2) + 1-5% alumina (AI2O3) + 1-5% iron oxide (Fe2O3).  These ingredients are ground together, e.g. the finer the grind the more rapid rate of hydration.
