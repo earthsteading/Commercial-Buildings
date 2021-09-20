@@ -12,7 +12,7 @@
  - T50 The cement and concrete assocation of Australi tilt-up construction notes (1997)
 
 ## History
-Abridged history of cement utili9sation in Australia
+Abridged history of cement utilisation in Australia
  - Cement formulated by the Romans and Greeks was made of calcinated gypsum and limestone.  Broken brick was embedded in pozzalanic (siliceous alumimnous) lime mortar and exposed to moisture and calcium hydroxide).  Essentially, the 'cementatious matrix' consisted of lime putty mixed with brick dust or volcanic ash and water.
  - 1790 - 1824 the British in Portland Dorset begin manufacturing dependable hydraulic cement whereby lime with burnt clay would set under water.
  - 1759 the Eddystone Lighthouse footingsin the English Channel 
