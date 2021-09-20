@@ -10,6 +10,7 @@
  - Z10 Concrete Institute of Australian design of tilt-up concrete wall panels (1992)
  - Z48 National pre-cast concrete association Australia pre-cast concrete handbook
  - T50 The cement and concrete assocation of Australi tilt-up construction notes (1997)
+ - NCC C1.11 performance of external walls in fire
 
 ## History
 Abridged history of cement utilisation in Australia
@@ -96,7 +97,19 @@ The process for manufacturing (Portland) cement includes:
  - [ ] The manufacturer will provide a letter of certification for concrete panels against the criteria from AS1379, including: (a) conrete specification, (b) minimum final concrete strength after 18 days, (c) results of a sampling program testing MPa strength, (d) casting dates for each panel, and earliest date for panel to be lifted, (e) design drawings with placement of panel in-situ as part of structure, (f) instructions for lifting/installing, (g) design layout for positioning panels on footings/slab, (h) overall layout of structure with bracing removed and permanent joint connections detailed.
  - [ ] Panel drawings should include: (a) date and issue number of drawing, (b) location, orientation and depth of lifting and corresponding inserts, (c) project location, (d) surface finish, (e) panel number and panel mass, (f) dimensional tolerances, (g) panel dimensions and centre of mass, (h) type and brand of lifting inserts, (i) type, size and locatino of steel or other reinforcements, (j) required concrete cover for reinforcement steel, (k) stron-back braces and fixing inserts details (if required), (l) concrete strength required for for lifting and as part of the structure as per AS3600, (m) additional instructions for lifting inserts, e.g. edge distances and proximity of reinforcement.
  - [ ] Panel erection drawings should include: (a) date and issue number of drawing, (b) project location, (c) position of brace connection points on the panel and the ground, (d) brace specifications and/or capacities, (e) levelling pad detials, (f) details for brace footings including dimensions, location, anchor, type and concrete strength at time of erection, and (g) details on keen and lateral bracing (if applicable).
-                                                            
-    
-             
-                                                             
+
+## Joints and connections
+ - [ ] Type of tilt-up joint connectors: (a) inserts (lifting, brace and fixings, (b) braces / props (telescopic threads, shear pins, brace foot pin, roof bracing systems, etc), (c) crane capacity checked against charts, e.g. 50 ton hydraulic crane can lift a 10-15 ton panel or a 200 ton crane can lift up to a 50 ton panel max, (d) tools for welding/bolting/dowling conectors and leveling pads/shims for minor adjustment of panels.
+ - [ ] Design criteria for connections: (a) structural adequecy, i.e. forces (compression, tension, flexure, shear, torsion) over lifetime: gravity, wind, earthquake, soil/water pressure, (b) ductility, i.e. ability to be deformed before failure, (c) accomodatino for volume change, i.e. flexibility for shrinkage, creep and temperature differences, (d) durability, i.e. galvanised, hot-dipped or stainless steel to resist corrosion, (e) fire resistance, e.g. protection from metal melting, (f) production simplicity, e.g. less complexity is good engineering, (g) construction simplicity, e.g. time is money.
+
+## 
+ - [ ] 
+ - [ ]  
+ - [ ] 
+ - [ ]                                                            
+ - [ ]                                                            
+ - [ ]                                                             
+ - [ ] 
+ - [ ] 
+ - [ ]                                                      
+ - [ ]                                                             
