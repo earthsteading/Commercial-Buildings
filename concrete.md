@@ -3,6 +3,12 @@
 ## Standards
  - AS1012 methods for testing concrete
  - AS3610 concrete finishes
+ - AS3600 concrete structures
+ - AS3850 Tilt-up concrete construction
+ - Worksafe's industry standard precast and tilt-up concrete for buildings
+ - Z10 Concrete Institute of Australian design of tilt-up concrete wall panels (1992)
+ - Z48 National pre-cast concrete association Australia pre-cast concrete handbook
+ - T50 The cement and concrete assocation of Australi tilt-up construction notes (1997)
 
 ## History
 Abridged history of cement heritage in Australia
@@ -22,6 +28,8 @@ The advantages of concrete in comparison to other primary construction materials
  - [ ] Impermeable to weather actions.
  - [ ] The gradual cooling of cement results in efflorescense, whereby the salt coats the external surface.
  - [ ] Easy to cosmetically repair via patching.
+ - [ ] Poor thermal insulation.
+ - [ ] Struturally weaked by fire.
 
 ### Disadvantages
 The disadvantages of concrete in comparison to other primary construction materials (timber, steel, earthen):
@@ -67,18 +75,27 @@ The process for manufacturing (Portland) cement includes:
   - [ ] AS3610 defines 5 classes of finishes with class 1,2 and 3 for typical architectural finishes on visible display; and, class 4 & 5 for non-visible concrete like footings and concrete frames. Form liners are used as molds to produce different aesthetic patterns. Retarders can be utilised for different textures and colour, e.g. oxidising the cement for earth tones.  Tooling for finishes (bushhammering, point tooling, abrasive blasting and hammered nib) must not exceed 8mm with test results verified by a panel prior to proceeding.
   - [ ] Pigments come in the form of granules, powders and liquids which bind into cement like other aggregates.
  
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ### Precast pop-up concrete
+  - [ ] Cast _off-site_ concrete panels are made via a qualitry control factory process in smooth steel molds and cured in storage, delivered to the building site (JIT) and installed with specifically engineered fasteners and fixings via a cranelifting them into place.  Braces are used (knee, lateral, end and main brace) along with anchors (tilt prop foot anchor and lifting lugs) to place the panels prior to assembly (using panel ferrules, sealants, etc)
+  - [ ] Cast _on-site_ concrete panels are cast atop other panels until cured and crane lifted into place.  This method while requiring a large on-site plant fopotprint is cost effective and requires less exerptise for transport. Chemicals are often used to accelerate drying process and to create a sealant to keep out moisture while the panel is curing.
+  - [ ] Panel thickness is usually 150-250mm.  Safety is a significant concern given the fatal risk of a panel falling during it's tilt-up phase.  Construction workers are 150% more likely to experience an accident at work. 
+  - [ ] Type of pre-cast panels: (a) cladding/curtain walls for enclosing the buildiong envelope from wind/seismic forces as they don't transfer vertical loads, e.g. walls panels, window wall units, spandrels, mullions and column covers, (b) load-bearing walls for strength/stability of structure, (c) shear walls for lateral loads esp when combined with diaphragam action of floor construction; and (d) formwork for cast-in-place concrete usually for visible aesthetic.
+  - [ ] Support/anchorage systems for gravity/lateral connections between panels are tested against: strength, ductility, volume change accomodations, durability, fire resistance and constructability.
+  - [ ] Joints and joint treament are measured against: structural, thermal, expansion, differential movement durability and water prevention.
+  - [ ] Thermal performance of panels is primarily determined by their thickness.  Structural weaknesses can result from fire and can collapse outward if steel joints are compromised (as opposed to un-reinforced masonry which 'progressively fails' vs tip-over).
+ - [ ] Approaches for resisting collapse from fire (resulting heat gradient accross panel will cause the corner to curvve away from the cooler panel midpoint): (a) panels to stand independtly of steel joint framing, (b) design steel joints to not fail during a fire.  Panels and joints must be engineered accordingly, e.g. a tall 2.5m panel would need to be supported by a column with a bending capacity of 50kN-m. Short concerent panels >2.5m would be connected to a supporting column structure (10m spacing) at all four corners via welded flanges, allowing the framework to flex but assuring the panels don't disengage from the supporting columns during a fire.
+  - [ ] Panels connected at the top and the bottom must have two connections to the raker members (>2m spacing) or be designed as a single unit with interlocking panels.
+  - [ ] End walls columns supported by lighweight columns (with a bending capacity of >50kN-m) must be ridigly conencted to the column/mullion and roof members.
+  - [ ] External walls connected to strong columns (<50kN-m) should be connected at the top by flexible connections, which would assure the panels remain upright in fire.
+  - [ ] Acoustics: if joints are not well sealed sound transmission can be increased.
+  - [ ] Panels will be finished using techniques like: sandblasting, exposing aggregate, acid washing, bush hammering and sealants.
+  - [ ] Panel erection is when the panel is at most risk to future problems arising, e.g. anchors used to attach panels can result in panel cracking, displacements or other distress conditions which may not become evident in years.  Quality control of assembly is paramount.
+ - [ ] Maitenance of panels (every 7-20 years) include reapplication of sealants, joint corrosion and cracking.
+ - [ ] Pre-cast panels must be design for transportation loads (erection loads) and in-service loads, e.g.   'strong-backs' may be required by the engineer during transport and tilt-up. Bracing inserts are installed into panel correctly spaced, including: ground release inserts, solid ferrule inserts, PVC ferrule chairs, grout tube, plastic moulds, shipaks, starter bars, A minimum of 2.5 lifting inserts per lift are required by AS3850 and accompanied by a certification letter from the engineer.
+ - [ ] 
+      
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
