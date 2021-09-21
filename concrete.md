@@ -68,7 +68,7 @@ The process for manufacturing (Portland) cement includes:
  - [ ] Cement compressive strength is graded based on ratio of water to cement, i.e. Class A cement has 0.5 water/cement ratio which results in a compressive strength of 18.5MPa in 7 days and 30MPa in 28 days.
  - [ ] Ratios of <cement:sand:stone> to <water> determine the compressive strength ergo construction use, e.g. a mix of <1xCement + 1xSand + 2xStone> would be weighed and then 2/5th water by weight added, resulting in a compressive strength of 40MPa (after 28 days curing), which can be used for heavy duty floor surfacing and pre-stressed concrete.  Different ratios of ingredients result in different construction uses, e.g. high strength structural concrete, footing concrete, lean mix road concrete, mass wall concrete, blinding concrete, etc.
 
- ## Concrete construction
+## Concrete construction
   - [ ] Concrete layers should be placed in horizontal layers, less than 600mm deep and vibrated/worked to release air and compact into corners of the formwork.  Each layer below should be soft enough to chemically bind to the layer below.  If concrete contains 10% of air voids it is half the strength it could be
   - [ ] Curing concrete is the hardening of silicate gels reacting to hydration which causes exothermic heat in three stages: (a) plastic (workability), (b) setting (cohesiveness), (c) hardening (strength+durability).
   - [ ] Accelerator agents (like calcium dioxide) can increase strength and are necessary for alpine cold weather climates where freezing water can crack concrete before it compacts.
@@ -102,14 +102,22 @@ The process for manufacturing (Portland) cement includes:
  - [ ] Type of tilt-up joint connectors: (a) inserts (lifting, brace and fixings, (b) braces / props (telescopic threads, shear pins, brace foot pin, roof bracing systems, etc), (c) crane capacity checked against charts, e.g. 50 ton hydraulic crane can lift a 10-15 ton panel or a 200 ton crane can lift up to a 50 ton panel max, (d) tools for welding/bolting/dowling conectors and leveling pads/shims for minor adjustment of panels.
  - [ ] Design criteria for connections: (a) structural adequecy, i.e. forces (compression, tension, flexure, shear, torsion) over lifetime: gravity, wind, earthquake, soil/water pressure, (b) ductility, i.e. ability to be deformed before failure, (c) accomodatino for volume change, i.e. flexibility for shrinkage, creep and temperature differences, (d) durability, i.e. galvanised, hot-dipped or stainless steel to resist corrosion, (e) fire resistance, e.g. protection from metal melting, (f) production simplicity, e.g. less complexity is good engineering, (g) construction simplicity, e.g. time is money.
 
-## 
- - [ ] 
- - [ ]  
- - [ ] 
- - [ ]                                                            
- - [ ]                                                            
- - [ ]                                                             
- - [ ] 
- - [ ] 
- - [ ]                                                      
- - [ ]                                                             
+## Columns
+ - [ ] Columns failure is a result of: (a) concrete strength, (b) slenderness of the column, (c) columns ability to resist shear/tensile stresses. Load carrying capacity for columns are designed by structural engineers. Lateral ties (ligatures/fitments/coils/hoops) wrap around longitudal bars to resist buckling/bursting of bars from the thin layer of concrete surrounding them.  Stronger reinforced concrete mixes (20-65MPa) are required for columns.
+ - [ ] Required concrete structure specification: (a) referncee number and date of issue for applicable AS Standard, (b) imposed actions (live lods) used in design, (c) earthquanke design category as per AS1170, (d) construction constraints, (e) exposure durability classification, (f) Fire Resistence Level, (g) class and grade designatin of concrete, (h) required properties of concrete, (i) curing procedure, (j) grade, ductility class and rype of reinformance grade/type of tendons, (k) size, quantity, location of all reinforcement tendons, structural fixings and covers, (l) location of splices, mechanical connections and weldings, (m) maximum jacking force for each tendon, (n) shape and size of each member, (o) finish method for unformed surfaces, (p) class of formwork for surface finish as per AS3610, (q) minimum period of time before strippiin of form work and removal of shore, and (r) locatino of planned construction and movement joints including protection.
+ - [ ] Example specification labels in drawings: SL92 is the style of standard for D500L fabric covering; 8-N28 is the number (8) of 16mm deformed bars of Grade D500N in layer or cross-section; 20-N16-200 is the number (20) of 16mm plain round bars of Grade D500N spaced at 200mm centres; 6-R10-150-T1 is the number of 10mm plain round bars of grade RISON used for fitments of shape T1 and spaced at 150mm centres;  ARCN102 is R500N mesh with 10mm nominal diameter wires at 200 mm centres each way covering the whole area of a slab. There is no need to specify either the number of sheets required to proviae full coverage or the lap dimension.    
+ - [ ] Reinforcement steel: hotl rolled steel (cured at 1150°C), micro-alloyed deformed bar and coil aka N12 / N16 / N40 / D450 N50 mill bars (low carbon, micro-alloyed high strength hot rolled reinforcing bar using vanadium or similar alloying element), quench and self tempered deformed bar QST (hot carbon hot rolled steel water cooled self tempering martensite with austentic core) and hot drawn and cold rolled bar (low carbon and yield stress of 300MPa as per AS/NZ4671).                       
+ - [ ] Column tensions: elastic moduls of steel is about 15x that of concrete, e.g. if steel is stressed to 14N/mm2 is will shatter the concrete.  The concrete takes the compressive stresses and teh steel takes the tensile stresses.                              
+ - [ ] Bending/cutting steel reinforcement bars is defined by AS3600, i.e. 4db for 12mm and 16mm bars; 5db for 20mm and 24mm bars, 6db for 28mm and 40mm bars.  Curtting N12 bars is possible by bolt cutters, for larger gauges a mechanical shear or oxyacetylene equipment should be used. 
+ - [ ] Welding reinforcement of steel bars as per AS/NZS4671 + AS1554: Grade 500N are the most weldable high strength reinforcing bars, particularly for butt-welding, tack-welding and lap splice welds.
+ - [ ] Fire-resistance level: fire temperatures above 200*C reduce the strength of both steel and concrete.  Covers of columns are required as per NCC Vol.1 FRL requirements.
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
