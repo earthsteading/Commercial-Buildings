@@ -117,8 +117,11 @@ The process for manufacturing (Portland) cement includes:
  - [ ] Post-tensioned concrete: same as above but tendons are tensioned and then wedged into hardened concrete.
  - [ ] Use of pre-stressed concrete is widely used, for example: in stairs, bridges, buildings, footing, parking garages, water towers, nuclear reactors, TV towers and offshore drilling platforms.
 
-                                                            
-                                                            
+## Floors & roofs
+
+ - [ ] Types of steel reinfroced concrete floors: (a) infill, (b) suspended (in situ concrete floors and composite floor systems), e.g. ribbed slab, waffle slab and flat plate floor.  Slabs can be supported on two opposing sides (one-way action) or on four sides (two way action).
+ - [ ] Floor slab design: (a) define strips of concrete in two mutually perpindicular directions connected to the slab supports which calculates the load combinations, (b) the concrete strips are connected to punching shear reinforcement slab support columns, e.g. T-beam ribs (20D single span, 25D multi span), ribbed slab (30-32D multispan), two way slab, waffle slab, flat plate slab, dropped plate flat slab with drop panel (32D end span, 36D interior span), band beam and slab (20-22D single span, 22-26D multi-span), column strip slab, pre-cast hollow core (35-40D single span), (c) florring installed, e.g., precast and composite floors aka hollow core, composite floors with band beams and pre-stressed concrete (see above).
+ - [ ] Lift slab systems, include: (a) column slab system are designed for on-site concrete casting and lifting of conrete slab floors to their designated height along the vertical rise of the their structural column, (b) stair ssystems where the shaft for the stairs is used as the size of slab which can be lifted to the vertical floor level.
                                                             
                                                             
                                                             
