@@ -112,6 +112,12 @@ The process for manufacturing (Portland) cement includes:
  - [ ] Welding reinforcement of steel bars as per AS/NZS4671 + AS1554: Grade 500N are the most weldable high strength reinforcing bars, particularly for butt-welding, tack-welding and lap splice welds.
  - [ ] Fire-resistance level: fire temperatures above 200*C reduce the strength of both steel and concrete.  Covers of columns are required as per NCC Vol.1 FRL requirements.
                                                             
+## Tensioned concrete
+ - [ ] Pre-stressed/tensioned concrete: reinforcing rods/cables are stretched/stressed and then concrete is poured around them, once the concrete hardens the tension of the rods compresses the concrete.
+ - [ ] Post-tensioned concrete: same as above but tendons are tensioned and then wedged into hardened concrete.
+ - [ ] Use of pre-stressed concrete is widely used, for example: in stairs, bridges, buildings, footing, parking garages, water towers, nuclear reactors, TV towers and offshore drilling platforms.
+
+                                                            
                                                             
                                                             
                                                             
