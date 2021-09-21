@@ -5,8 +5,9 @@ Earthsteading Ltd has taken a comprehensive survey of primary buildings material
 
 ## Analysis of primary structural materials for commercial structures:
  - [x] [timber](https://github.com/earthsteading/commercial-buildings/blob/main/timber.md)
+ - [ ] [brickwork](https://github.com/earthsteading/commercial-buildings/blob/main/brickwork.md)
  - [ ] [concrete](https://github.com/earthsteading/commercial-buildings/blob/main/concrete.md)
- - [ ] steel
+ - [ ] steel: containers, colorbond warehouses/shed, etc
  - [ ] earth: rammed earth, hemp bricks, straw bale, adobe, earthen concretes and renders
 
 ## References
