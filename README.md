@@ -6,6 +6,8 @@ Chronlogical process for approval of schematics to obtain a building permit for 
 
  1. [Site preparation, including excavation, footings, basements and structural foundations](https://github.com/earthsteading/commercial-buildings/blob/main/site-prep.md)
  2. [Structural materials, including timber, concrete, steel and earth](https://github.com/earthsteading/commercial-buildings/blob/main/structural-materials.md)
+ 3. [Superstrcuture construction, including: formwork, beamns, trusses, frames, floors, walls, etc]()
+ 4. Commissiong 
 
 ## Standards references in the following checklists:
   - AS1289 = methods for testing soils for engineering purposes
