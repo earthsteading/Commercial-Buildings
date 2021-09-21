@@ -9,11 +9,7 @@ Chronlogical process for approval of schematics to obtain a building permit for 
  3. [Superstrcuture construction, including: formwork, beamns, trusses, frames, floors, walls, etc]()
  4. Commissiong 
 
-## Standards references in the following checklists:
-  - AS1289 = methods for testing soils for engineering purposes
-  - AS2870-1996 = Residential slabs for footing constructions
-
-## Acronnyms and termonology:
+## Acronnyms and terminology
 All construction terms are referenced via the [National Construction Dictionary](https://www.constructiondictionary.com.au/search)
   * ABCB = Australian Building Codes Board
   * NCC aka BCA = National Construction Code / Building Code of Australia
