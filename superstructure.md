@@ -24,6 +24,16 @@ Australian Standards:
  - AS2082 timber hardwoods visual stress grades for structure purposes
  - AS2858 timber softwoods visual stress grades for structure purposes
  - AS3600 concrete structures
+ - AS/NZS 1170 structural design actions
+ - AS1170 minimum design loads on structures
+ - AS1530 methods for fire tests on building materials, componets and structures
+ - AS1562 design and installation of sheet roof and wall cladding
+
+
+## Grid structures
+
+ - [ ] Roof applications: space frames aka isotropic vector matrix or in a single unit width octet truss (for spanning large spaces, like stadiums), flat grids, folded grids, folded lattice plates, braced barrel vaults and braced domes.
+ - [ ] Advantages of structure: 3D rigidity, larger spans at lower heights, freeom of design, eliminates mid-columns, spacious, high load bearing, functional aesthetic, integral cladding, modularity, less transportation cost, easy to expand, assembly line economics, seismic resistant
 
 ## Trusses (timber, concrete and steel)
 
