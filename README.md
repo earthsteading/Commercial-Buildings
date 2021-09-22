@@ -9,10 +9,14 @@ Chronlogical process for approvals to obtain a building permit for a commercial 
  3. [Superstrcuture construction, including: formwork, beamns, trusses, frames, floors, walls, etc](https://github.com/earthsteading/commercial-buildings/blob/main/superstructure.md)
  4. [Commissiong of final commercial structure for occupancy permit](https://github.com/earthsteading/commercial-buildings/blob/main/commissioning.md)
 
-## Acronnyms and terminology
+## Acronyms and terminology
 All construction terms are referenced via the [National Construction Dictionary](https://www.constructiondictionary.com.au/search)
   * ABCB = Australian Building Codes Board
   * NCC aka BCA = National Construction Code / Building Code of Australia
+
+## Australasian building standards
+ - [ ] AS/NZS1668 ventilation and air-conditioning
+ - [ ] 
 
 
 
