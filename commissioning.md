@@ -1,8 +1,10 @@
 
 # Commissioning a commercial building
 
-Standards:
- - ISO/IEC 17065:2013 conformity assessment requirements for bodies certifying products, processes and services.
+Standards to be verified on documentation:
+ - [ ]  ISO/IEC 17065:2013 conformity assessment requirements for bodies certifying products, processes and services.
+ - [ ]  AS/NZS1668 ventilation and air-conditioning in buildings
+ - [ ]  
 
 Prior to providing an occupancy certificate, conditions of the permit must include:
  - [ ] list of all essential safety measures (ESMs) pertaining to the building or place of public entertainment
@@ -10,7 +12,7 @@ Prior to providing an occupancy certificate, conditions of the permit must inclu
  - [ ] frequency and type of inspection, testing and maiteance period required for each essential safety measure, including reference of the Building Regulations per ESM.
  - [ ] All commisioning documentation and certifications are obtained and retained for 10 years.
 
-Prior to a building occupany permit being provided, the following must be verified:
+Prior to a building occupany permit being provided, the following must be verified by the RBS:
  - [ ] roof drainage connected to approved point of discharge
  - [ ] requires safety systems compliant, e.g. handrails, fire safety, etc.
  - [ ] stair compliance
@@ -38,4 +40,5 @@ Prior to a building occupany permit being provided, the following must be verifi
  - [ ] disabled access and facilities
  - [ ] mechnical systems compliance
  - [ ] consent from the Chief Officer (build permit and fire station alarm monitorring connection)
- - [ ] 
+
+
