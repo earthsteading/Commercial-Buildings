@@ -1,5 +1,5 @@
 
-#Commissioning a commercial building
+# Commissioning a commercial building
 
 Standards:
  - ISO/IEC 17065:2013 conformity assessment requirements for bodies certifying products, processes and services.
@@ -38,3 +38,4 @@ Prior to a building occupany permit being provided, the following must be verifi
  - [ ] disabled access and facilities
  - [ ] mechnical systems compliance
  - [ ] consent from the Chief Officer (build permit and fire station alarm monitorring connection)
+ - [ ] 
