@@ -44,12 +44,18 @@ Prior to a building occupany permit being provided, the following must be verifi
 ## Performance Solutions
  - [ ] note on performance solutions for commercial buildings: the variety of Performance Solutions for commercial buildings is varietous and requires signinificant effort to assure all evidence from expert consultants is collected.
 
-## Deemed-to-satify provisions
+## Air conditioners
+ - [ ] Measure ceiling, floor and window areas in cubic meatures and ask advice on which air-conditioners is the right size, e.g. too powerful an AC will result in too much humidity resulting in a damp feeling and potentially condensation.
+ - [ ] Type of air-conditioners: central ducted air conditioner, wind and through the wall, split system, multi-split system, and portable.  Inverter systems installed on each will enable greater control of fan speed and cooling temperature and are arguably more energy efficient.  Reverse cycle systems can also provide heating.
+
+NCC Checks:
  - [ ] J5.2 Air-conditioning and ventilation systems. 
  - [ ] J5.3 Time switch. 
  - [ ] J5.4 Heating and cooling systems. 
  - [ ] J5.5 Miscellaneous exhaust systems. 
-Ventilation 
+
+
+### Ventilation 
  - [ ] F4.O Deemed-to Satisfy Provisions. 
  - [ ] F4.5 Ventilation of rooms. 
  - [ ] F4.6 Natural ventilation. 
@@ -58,21 +64,27 @@ Ventilation
  - [ ] F4.9 Airlocks. 
  - [ ] F4.11 Car parks. 
  - [ ] F4.12 Kitchen local exhaust ventilation. 
-Ventilation systems, energy efficiency 
+
+### Ventilation systems, energy efficiency 
+To reduce greehouse gas emissions through efficient use of energy:
  - [ ] J5.O Deemed-to-Satisfy Provisions. 
  - [ ] ?5.2 Air-conditioning and ventilation systems. 
  - [ ] J5.3 Time switch. 
  - [ ] J5.5 Miscellaneous exhaust systems. 
-Smoke alarm system 
+
+### Smoke alarm system 
  - [ ] SPEC-E2.2a Specifications E2.2a Smoke Detection and Alarm Systems. 
-Smoke and heat vents. 
+
+### Smoke and heat vents. 
  - [ ] SPEC-E2.2c Specification E2.2c Smoke-and-Heat Vents. 
-Smoke detection and alarm system. 
+
+### Smoke detection and alarm system. 
  - [ ] E2.O Deemed-to-Satisfy provisions. 
 Smoke door, construction 
  - [ ] SPEC-C3.4 Specification C3.4 Fire Doors, Smoke Doors, Fire Windows and Shutters. 
 
 ## Light
+Safeguard occupants from injury, illness or loss of amenity due to isolation from natural light, and/or artifical light:
  - [ ] J6.ODeemed-to-Satisfy Provisions. 
  - [ ] ?6.2 Artificial lighting. 
  - [ ] J6.3 Interior artificial lighting and power control. 
@@ -100,6 +112,7 @@ Australasian standards:
  - [ ] AS4254 ductwork for air-handling
 
 ## Smoke exhaust and hazard management systems
+To safeguard occupants by warning them of fire so they may have time to evacuate:
  - [ ] SPEC-E2.2b Specification E2.2b Smoke Exhaust System.
  - [ ] E2.O Deemed-to-Satisfy Provisions. 
  - [ ] E2.1 Application of part. 
@@ -134,6 +147,7 @@ Fire door, construction
  - [ ] C2.9 Separation of classifications in different storeys. 
 
 ## Firefighting equipment
+To safeguard while evacuating during a fire and to provide fire brigade services to undertake fire-fighting.
  - [ ] El.O Deemed-to-Satisfy Provisions. 
  - [ ] El.10 Provisions for special hazards. 
  - [ ] El.3 Fire Hydrants 
@@ -151,6 +165,7 @@ Fire door, construction
  - [ ] SPEC-CI.10a Specification Cl.10a Fire Hazard Properties — Floors, Walls and Ceilings. 
 
 ## Fire resistance
+To safeguard occupants while evacuating a building during a fire:
  - [ ] A2.3 Fire-resistance of building elements. 
  - [ ] Cl.O Deemed-to-Satisfy Provisions. 
  - [ ] Cl.l Type of construction required. 
