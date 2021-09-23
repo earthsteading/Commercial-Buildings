@@ -21,7 +21,7 @@ Prior to a building occupany permit being provided, the following must be verifi
  - [ ] smoke detection and alarm systems installed and fully operational
  - [ ] energy efficiency provisions met
  - [ ] power connected and operational for mechcanical ventilation, articicial lighting and.or hard wired smoke alarms
- - [ ] For gas connection pipework is installed and ready for gas supply
+ - [ ] gas connection pipework installed ready for gas supply
  - [ ] water supply connected to building
  - [ ] swimming pool and spa safety barriers
  - [ ] bushfire construction (if applicable)
