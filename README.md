@@ -1,4 +1,4 @@
-# commercial-buildings
+# Checklists for surveying and inspecting commercial buildings
 Description: checklists to obtain building permits for commercial structures including Class 2-9: apartments, boarding/guest house, motels, hotels, jail, school, care facility, caretaker, professional/commercial offices, shops, restaturants, cafes, kiosk, laundry, hair-dresser, market, showroom, carparks, warehouse, storage, wholesale, factory, assembly, packagin, laboratory, mechanic workshop, data centres, healthcare, assembly and aged care.
 
 # Timelines
@@ -13,14 +13,6 @@ Chronlogical process for approvals to obtain a building permit for a commercial 
 All construction terms are referenced via the [National Construction Dictionary](https://www.constructiondictionary.com.au/search)
   * ABCB = Australian Building Codes Board
   * NCC aka BCA = National Construction Code / Building Code of Australia
-
-## Australasian building standards
- - [ ] AS/NZS1668 ventilation and air-conditioning
- - [ ] 
-
-
-
-
 
 
 
