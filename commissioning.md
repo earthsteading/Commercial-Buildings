@@ -97,6 +97,7 @@ Safeguard occupants from injury, illness or loss of amenity due to isolation fro
  - [ ] F4.3 Natural light borrowed from adjoining room. 
 
 ## Fire safety systems
+
 Australasian standards:
  - [ ] AS/NZS1668 ventilation and air-conditioning
  - [ ] AS1670 fire detection, warning, control, intercom systems
@@ -110,6 +111,13 @@ Australasian standards:
  - [ ] AS3786 smoke alarms
  - [ ] AS4072 protection of openings in fire-resistant seperating elements
  - [ ] AS4254 ductwork for air-handling
+
+Emergency warning and intercommunication systems (EWIS):
+ - [ ] An EWIS will provide the folloing features in accordance with AS2220: (a) manual and automatic alarm activation, (b) alert singnal noise/lights, (c) ability to provide verbal address to one or more areas via a public announcement, (d) ability to communicate with one or mroe Wardens via the Warden Intercommunication Points (WIPs aka red phones), (e) only able to be shut off by the Chief Warden.
+ - [ ] Type of fire detection systems: (a) conventional systems (on/off systems which indicates area/zone of fire) and (b) analogue addressable systems (each detector sensor is customisable in terms of location, faults and sensitivity).
+ - [ ] Types of detectors: (a) optical detector (light source, photodiode or other photoelectrical sensor), and (b) ionization detector (smoke detection via radioactive americium-241 alpha radiation).
+ - [ ] Fire alarm panel features (basic and advanced): (a) programmable delays/outputs, (b) low quiescent current, (c) decector head removal facility, (d) single PCB architecture, (e) ease of use, (f) walk test facility, (g) accomodates up to 40x conventional fire dectors on single circuit; and advanced features would also include (h) programmable panel via computer connection, (i) remote up/download of software, (j) customisable software features, like password protected, day/night sensitivity, event log, self-learning capabilities, keypad, pre-alarm, voltage readout, printer connection, testing (SPOT), networked, (k) brigade output for interrogation.
+ - [ ] Suppression systems as per AS4214: (a) hydroflourocarbon (HFC) such as FM-200, (b) carbon dioxide in fire extinguishers used since 1900s, C9) water deluge systems
 
 ## Smoke exhaust and hazard management systems
 To safeguard occupants by warning them of fire so they may have time to evacuate:
