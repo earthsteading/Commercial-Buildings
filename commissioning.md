@@ -54,35 +54,6 @@ NCC Checks:
  - [ ] J5.4 Heating and cooling systems. 
  - [ ] J5.5 Miscellaneous exhaust systems. 
 
-
-### Ventilation 
- - [ ] F4.O Deemed-to Satisfy Provisions. 
- - [ ] F4.5 Ventilation of rooms. 
- - [ ] F4.6 Natural ventilation. 
- - [ ] F4.7 Ventilation borrowed from adjoining rooms. 
- - [ ] F4.8 Restriction on position of water closets and urinals. 
- - [ ] F4.9 Airlocks. 
- - [ ] F4.11 Car parks. 
- - [ ] F4.12 Kitchen local exhaust ventilation. 
-
-### Ventilation systems, energy efficiency 
-To reduce greehouse gas emissions through efficient use of energy:
- - [ ] J5.O Deemed-to-Satisfy Provisions. 
- - [ ] ?5.2 Air-conditioning and ventilation systems. 
- - [ ] J5.3 Time switch. 
- - [ ] J5.5 Miscellaneous exhaust systems. 
-
-### Smoke alarm system 
- - [ ] SPEC-E2.2a Specifications E2.2a Smoke Detection and Alarm Systems. 
-
-### Smoke and heat vents. 
- - [ ] SPEC-E2.2c Specification E2.2c Smoke-and-Heat Vents. 
-
-### Smoke detection and alarm system. 
- - [ ] E2.O Deemed-to-Satisfy provisions. 
-Smoke door, construction 
- - [ ] SPEC-C3.4 Specification C3.4 Fire Doors, Smoke Doors, Fire Windows and Shutters. 
-
 ## Light
 Safeguard occupants from injury, illness or loss of amenity due to isolation from natural light, and/or artifical light:
  - [ ] J6.ODeemed-to-Satisfy Provisions. 
@@ -96,8 +67,25 @@ Safeguard occupants from injury, illness or loss of amenity due to isolation fro
  - [ ] F4.2 methods and extent of natural lighting. 
  - [ ] F4.3 Natural light borrowed from adjoining room. 
 
-## Fire safety systems
+## Ventilation 
+ - [ ] F4.O Deemed-to Satisfy Provisions. 
+ - [ ] F4.5 Ventilation of rooms. 
+ - [ ] F4.6 Natural ventilation. 
+ - [ ] F4.7 Ventilation borrowed from adjoining rooms. 
+ - [ ] F4.8 Restriction on position of water closets and urinals. 
+ - [ ] F4.9 Airlocks. 
+ - [ ] F4.11 Car parks. 
+ - [ ] F4.12 Kitchen local exhaust ventilation. 
 
+## Ventilation systems, energy efficiency 
+To reduce greehouse gas emissions through efficient use of energy:
+ - [ ] J5.O Deemed-to-Satisfy Provisions. 
+ - [ ] ?5.2 Air-conditioning and ventilation systems. 
+ - [ ] J5.3 Time switch. 
+ - [ ] J5.5 Miscellaneous exhaust systems. 
+
+
+## Fire safety systems
 Australasian standards:
  - [ ] AS/NZS1668 ventilation and air-conditioning
  - [ ] AS1670 fire detection, warning, control, intercom systems
@@ -112,7 +100,13 @@ Australasian standards:
  - [ ] AS4072 protection of openings in fire-resistant seperating elements
  - [ ] AS4254 ductwork for air-handling
 
-Emergency warning and intercommunication systems (EWIS):
+NCC Checks:
+ - [ ] SPEC-E2.2a Specifications E2.2a Smoke Detection and Alarm Systems. 
+ - [ ] SPEC-E2.2c Specification E2.2c Smoke-and-Heat Vents. 
+ - [ ] E2.O Deemed-to-Satisfy provisions. 
+ - [ ] SPEC-C3.4 Specification C3.4 Fire Doors, Smoke Doors, Fire Windows and Shutters. 
+
+## Emergency warning and intercommunication systems (EWIS):
  - [ ] An EWIS will provide the folloing features in accordance with AS2220: (a) manual and automatic alarm activation, (b) alert singnal noise/lights, (c) ability to provide verbal address to one or more areas via a public announcement, (d) ability to communicate with one or mroe Wardens via the Warden Intercommunication Points (WIPs aka red phones), (e) only able to be shut off by the Chief Warden.
  - [ ] Type of fire detection systems: (a) conventional systems (on/off systems which indicates area/zone of fire) and (b) analogue addressable systems (each detector sensor is customisable in terms of location, faults and sensitivity).
  - [ ] Types of detectors: (a) optical detector (light source, photodiode or other photoelectrical sensor), and (b) ionization detector (smoke detection via radioactive americium-241 alpha radiation).
