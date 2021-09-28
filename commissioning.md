@@ -1,16 +1,16 @@
 
 # Commissioning a commercial building
 
-Standards:
+## Standards:
  - [ ]  ISO/IEC 17065:2013 conformity assessment requirements for bodies certifying products, processes and services.
 
-Prior to providing an occupancy certificate, conditions of the permit must include:
+## Prior to providing an occupancy certificate, conditions of the permit must include:
  - [ ] list of all essential safety measures (ESMs) pertaining to the building or place of public entertainment
  - [ ] specifications for each essential safety measure outlining the performance level as determined by the relevant building surveyor
  - [ ] frequency and type of inspection, testing and maiteance period required for each essential safety measure, including reference of the Building Regulations per ESM.
  - [ ] All commisioning documentation and certifications are obtained and retained for 10 years.
 
-Prior to a building occupany permit being provided, the following must be verified by the RBS:
+## Prior to a building occupany permit being provided, the following must be verified by the RBS:
  - [ ] roof drainage connected to approved point of discharge
  - [ ] requires safety systems compliant, e.g. handrails, fire safety, etc.
  - [ ] stair compliance
@@ -47,8 +47,6 @@ Prior to a building occupany permit being provided, the following must be verifi
 ## Air conditioners
  - [ ] Measure ceiling, floor and window areas in cubic meatures and ask advice on which air-conditioners is the right size, e.g. too powerful an AC will result in too much humidity resulting in a damp feeling and potentially condensation.
  - [ ] Type of air-conditioners: central ducted air conditioner, wind and through the wall, split system, multi-split system, and portable.  Inverter systems installed on each will enable greater control of fan speed and cooling temperature and are arguably more energy efficient.  Reverse cycle systems can also provide heating.
-
-NCC Checks:
  - [ ] J5.2 Air-conditioning and ventilation systems. 
  - [ ] J5.3 Time switch. 
  - [ ] J5.4 Heating and cooling systems. 
@@ -57,7 +55,7 @@ NCC Checks:
 ## Light
 Safeguard occupants from injury, illness or loss of amenity due to isolation from natural light, and/or artifical light:
  - [ ] J6.ODeemed-to-Satisfy Provisions. 
- - [ ] ?6.2 Artificial lighting. 
+ - [ ] J6.2 Artificial lighting. 
  - [ ] J6.3 Interior artificial lighting and power control. 
  - [ ] J6.4 Interior decorative and display lighting. 
  - [ ] J6.5 Artificial lighting around the perimeter of a building. 
@@ -83,7 +81,6 @@ To reduce greehouse gas emissions through efficient use of energy:
  - [ ] ?5.2 Air-conditioning and ventilation systems. 
  - [ ] J5.3 Time switch. 
  - [ ] J5.5 Miscellaneous exhaust systems. 
-
 
 ## Fire safety systems
 Australasian standards:
