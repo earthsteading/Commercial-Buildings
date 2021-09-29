@@ -78,7 +78,7 @@ Compliance certificates must contain the following information: (a) consent numb
  - [ ] Security systems, e.g. security design, physical security, lighting, fencing, intruder alarm, electronic access control, CCTV monitorring, etc.
  - [ ] Fire engineer, e.g. hydrants, reels, pipework, valves, fittings, extinguishers, blankets, smoke detectors, sound alarms, smoke and fire doors, fire indicator panel, etc.
  - [ ] Hydraulic services, e.g. domestic water service, tap outlets and fixtures, water storage, non-potable water safety, water pressure boosting pumps, heated water systems, sewer systems, sanitary plubming, trade waste systems, etc.
- - [ ] Performance solution consultants, e.g. engineering, fire safety, accessibility / mobility, etc.
+ - [ ] Performance solution consultants, e.g. engineering, fire safety, accessibility / mobility, demolition,  etc.
  - [ ] Essential Safety Measures (ESM) maintenance schedule provided, including fire safety (AS1851), log books, instructtions, signage, etc.
 
 ## Air conditioners
