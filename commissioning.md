@@ -12,7 +12,7 @@
 
 ## Prior to a building occupany permit being provided, the following must be verified by the RBS:
  - [ ] roof drainage connected to approved point of discharge
- - [ ] requires safety systems compliant, e.g. handrails, fire safety, etc.
+ - [ ] required safety systems compliance, e.g. handrails, fire safety, etc.
  - [ ] stair compliance
  - [ ] glazing compliance, e.g. human impact, structural/weather resistance
  - [ ] provision of sanitary and other facilities
@@ -39,10 +39,47 @@
  - [ ] mechnical systems compliance
  - [ ] consent from the Chief Officer (build permit and fire station alarm monitorring connection)
 
+## Essential Safety Measures (building manual)
+ - [ ] building manual logbook for ESMs
+ - [ ] schedule of inspections and testing as specified in Occupany Certificate / Certificate of Final Inspection
+ - [ ] authorities who should be engaged in ESMs
+ - [ ] preventative maitenance
+ - [ ] applicable warranties and their maitenance schedule
+ - [ ] re-commissioning procedures
+ - [ ] building tuning protocols
+ - [ ] list of relevant building service contacts
+ - [ ] oprating parameters and procedures
+ - [ ] schematics with instructions for use of building systems
+ - [ ] photographs of original state of building
+ - [ ] safety data sheet (SDS)
+ - [ ] trouble shooting of likely faults and repairs
+ - [ ] issues found and resolved during commissioning
+ - [ ] certificates: development approval, building approval, determinations, fire engineer report, occupancy certificate, registration and licences, engineer certificates, utility providers, authority consents, etc.
+
 # Evidence to be gathered for commercial structures 
 
-## Performance Solutions
- - [ ] note on performance solutions for commercial buildings: the variety of Performance Solutions for commercial buildings is varietous and requires signinificant effort to assure all evidence from expert consultants is collected.
+## Compliance certificates and performance solutions
+Compliance certificates must contain the following information: (a) consent number, (b) details of installation and maitenance performed on each building component, (c) affirmation that the work was completed.
+ - [ ] Validation by indemnified professional for any work exceeding the cost of $750 (including materials, appliances and labour).
+ - [ ] All plumbing work validated against NCC vol.3 (within 5 days of work completion)
+ - [ ] All gas-using appliances and pipework, as overseen by Energy Safe Australia
+ - [ ] All below-ground sanitary drains or associated gullies
+ - [ ] All cooling towers devices and associated equipment
+ - [ ] Architect/designer and contract validation of schematics
+ - [ ] Utilities and associated infrastructure evidence, e.g. water, sewage, drainage, stormwater, gas, electric, telecommunications, solar power, etc.
+ - [ ] Building fabric consultants, e.g. roofing, walls, cladding, windows, glazing, doors, windows, security locks, ceiling, access hatches, stairs/ramps, toilet facilities, joinery and fixtures, brid proofing, insect screens, termite protection.
+ - [ ] Building finish consultants, e.g. external finish, internal finish, painting and applied finish.
+ - [ ] Acoustic engineer, e.g. demonstration of performance, airbourne sound insulation, internal noise levels, reverberation, external noise.
+ - [ ] Structural engineer, e.g. site conditions, geotechnical, substructure, superstructure, deflection, accessibility, custom designs.
+ - [ ] Civil engineer, e.g. stormwater, access, roads, pedestrian footpaths, etc.
+ - [ ] Mechanical services, e.g. heating, cooling, ceiling fans, electrical supply, gas supply, ventilation, dust extraction systems, ductwork, air grilles, pipework reticulation systems, noise and vibration, refrigeration, hydrotherapy pool mechanical services, etc.
+ - [ ] Electrical services, e.g. incoming electrical supply, main switchboards, cable reticulation, energy metering, underground pits and duct systems, general power outlets, electrical safety, lighting systems, etc.
+ - [ ] Information and communication technology, e.g. ICT design and maitenance, cabling systems, network access points, pits & duct system, server room, IT equipment cabinets, voice communication (phones), television distribution, audio-visual system, public address system, sound system and emergency intercom, hearing augmentation, etc.
+ - [ ] Security systems, e.g. security design, physical security, lighting, fencing, intruder alarm, electronic access control, CCTV monitorring, etc.
+ - [ ] Fire engineer, e.g. hydrants, reels, pipework, valves, fittings, extinguishers, blankets, smoke detectors, sound alarms, smoke and fire doors, fire indicator panel, etc.
+ - [ ] Hydraulic services, e.g. domestic water service, tap outlets and fixtures, water storage, non-potable water safety, water pressure boosting pumps, heated water systems, sewer systems, sanitary plubming, trade waste systems, etc.
+ - [ ] Performance solution consultants, e.g. engineering, fire safety, accessibility / mobility, etc.
+ - [ ] Essential Safety Measures (ESM) maintenance schedule provided, including fire safety (AS1851), log books, instructtions, signage, etc.
 
 ## Air conditioners
  - [ ] Measure ceiling, floor and window areas in cubic meatures and ask advice on which air-conditioners is the right size, e.g. too powerful an AC will result in too much humidity resulting in a damp feeling and potentially condensation.
