@@ -2,8 +2,9 @@
 # Commissioning a commercial building
 
 ## Standards:
- - [ ]  AS 1851 inspection, testing and maitenance requiremenbts for commercial buildings.
  - [ ]  ISO/IEC 17065:2013 conformity assessment requirements for bodies certifying products, processes and services.
+ - [ ]  AS 1851 inspection, testing and maitenance requiremenbts for commercial buildings.
+ - [ ]  For Victoria, via Building Regulations 218 (maitenance schedule), 194 (ESM requirement), 225 (ESM record keeping requirements), 223 (annual dates for parp and ), 221, 222, 224 & 225 (Municipal Building Surveyor or Private Building Surveyor obligations in preparaing/consolidating an ESM).
 
 ## Prior to providing an occupancy certificate, conditions of the permit must include:
  - [ ] list of all essential safety measures (ESMs) pertaining to the building or place of public entertainment
