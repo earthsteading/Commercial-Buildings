@@ -2,6 +2,7 @@
 # Commissioning a commercial building
 
 ## Standards:
+ - [ ]  AS 1851 inspection, testing and maitenance requiremenbts for commercial buildings.
  - [ ]  ISO/IEC 17065:2013 conformity assessment requirements for bodies certifying products, processes and services.
 
 ## Prior to providing an occupancy certificate, conditions of the permit must include:
