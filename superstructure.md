@@ -1,8 +1,7 @@
 # Superstructure of commercial buildings
-Below are a list of common components used in commercial buildings, including:
+Below are a list of common superstrcuture components used in commercial buildings, including:
  - [x] Trusses 
  - [x] Steelwork connections
-
 
 Australian Standards:
  - AS1163 structural steel hollow sections
@@ -44,7 +43,6 @@ Australian Standards:
   - [ ] Castellated or cellular beams are used for long spans and service integrations
 
 ## Steelwork connections
-
  - [ ] Grade 250 steel is the most used for commercial buildings and comes in two types: (i) plate mill in flat plate form (AS/NZS 3678 250 XLERPLATE@ (with thickness up to 5mm) or, (ii) hot strip mill in coil form AS/NZS1594 HA25O XLERCOIL@ (with thickness up to 12mm).
  - [ ] The two forms of 250 steel vary in regards to surface scale (coil plate better for laser cutting), silicon content (coil plate is better for galvanizing), flatness (plate mill is flatter), grain structure (coil plate is better for bending, flat place is more uniform) and dimensional tolerances.
  - [ ] Other types of steel: mild steel (low strength carbon steel not standardised), wrought iron aka decorative frieze work aka worked mild steel (highliy malleable, grows stronger as it is worked), universal steel sections comply with Australian quality standards (universal "I" beams, "C" channels aka PFC, universal "I" columns, "L" angles, welded beams, fabricated beams aka cestellated/cellular beams).
@@ -56,4 +54,3 @@ Australian Standards:
  - [ ] Standard connection types for steel members: angle seat, bearing pad, flexible end plate, angle cleat, web side plate, fully welded, bolted moment end plate, welded splices, bolted splices, bolted knee joint, apex joint, base plate and web copes.
  - [ ] Erection procedures as per AS4100: full contact splices, cutting, welding, holing, bracing, bolting, tensioning and grouting.
  - [ ] The design drawing shall include: (a) size and designation of each member, (b) number, sizes and categories of bolts used in connection, (c) sizes, types and categories of welds and visual examination required, (d) sizes of connection components, (e) location and details of joints, connections and splices, (f) any constraint on construction assumed in the design.
- - [ ] 
