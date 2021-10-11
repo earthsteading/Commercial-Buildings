@@ -58,7 +58,21 @@
  - [ ] issues found and resolved during commissioning
  - [ ] certificates: development approval, building approval, determinations, fire engineer report, occupancy certificate, registration and licences, engineer certificates, utility providers, authority consents, etc.
 
-# Evidence to be gathered for commercial structures 
+# Evidence to be gathered for commercial structure inspections
+
+ - [x] preliminary schematic inspection against NCC vol.1
+ - [x] foundations
+ - [x] structural framing and roofing
+ - [x] footings and reinforcement
+ - [x] pool safety and structure
+ - [x] waterproofing of wet areas
+ - [x] performance solutions / certificates of compliance (see below)
+ - [x] facade / cladding instalation
+ - [x] fire dectection/suppression systems
+ - [x] wall linings / plastering / sarking and condentation mitigations
+ - [x] insulations thermal and acoustic
+ - [x] fire-rate compartments and openings
+ - [x] final inspection
 
 ## Compliance certificates and performance solutions
 Compliance certificates must contain the following information: (a) consent number, (b) details of installation and maitenance performed on each building component, (c) affirmation that the work was completed.
@@ -83,43 +97,7 @@ Compliance certificates must contain the following information: (a) consent numb
  - [ ] Performance solution consultants, e.g. engineering, fire safety, accessibility / mobility, demolition,  etc.
  - [ ] Essential Safety Measures (ESM) maintenance schedule provided, including fire safety (AS1851), log books, instructtions, signage, etc.
 
-## Air conditioners
- - [ ] Measure ceiling, floor and window areas in cubic meatures and ask advice on which air-conditioners is the right size, e.g. too powerful an AC will result in too much humidity resulting in a damp feeling and potentially condensation.
- - [ ] Type of air-conditioners: central ducted air conditioner, wind and through the wall, split system, multi-split system, and portable.  Inverter systems installed on each will enable greater control of fan speed and cooling temperature and are arguably more energy efficient.  Reverse cycle systems can also provide heating.
- - [ ] J5.2 Air-conditioning and ventilation systems. 
- - [ ] J5.3 Time switch. 
- - [ ] J5.4 Heating and cooling systems. 
- - [ ] J5.5 Miscellaneous exhaust systems. 
-
-## Light
-Safeguard occupants from injury, illness or loss of amenity due to isolation from natural light, and/or artifical light:
- - [ ] J6.ODeemed-to-Satisfy Provisions. 
- - [ ] J6.2 Artificial lighting. 
- - [ ] J6.3 Interior artificial lighting and power control. 
- - [ ] J6.4 Interior decorative and display lighting. 
- - [ ] J6.5 Artificial lighting around the perimeter of a building. 
- - [ ] F4.O Deemed-to-Satisfy Provision. 
- - [ ] F4.4 Artificial lighting. 
- - [ ] F4.1 Provision of natural light. 
- - [ ] F4.2 methods and extent of natural lighting. 
- - [ ] F4.3 Natural light borrowed from adjoining room. 
-
-## Ventilation 
- - [ ] F4.O Deemed-to Satisfy Provisions. 
- - [ ] F4.5 Ventilation of rooms. 
- - [ ] F4.6 Natural ventilation. 
- - [ ] F4.7 Ventilation borrowed from adjoining rooms. 
- - [ ] F4.8 Restriction on position of water closets and urinals. 
- - [ ] F4.9 Airlocks. 
- - [ ] F4.11 Car parks. 
- - [ ] F4.12 Kitchen local exhaust ventilation. 
-
-## Ventilation systems, energy efficiency 
-To reduce greehouse gas emissions through efficient use of energy:
- - [ ] J5.O Deemed-to-Satisfy Provisions. 
- - [ ] ?5.2 Air-conditioning and ventilation systems. 
- - [ ] J5.3 Time switch. 
- - [ ] J5.5 Miscellaneous exhaust systems. 
+# Inspection criteria as per NCC
 
 ## Fire safety systems
 Australasian standards:
@@ -225,3 +203,71 @@ Fire walls
 ## Fire retardant coating
  - [ ] Cl.10 Fire hazard properties.
  - [ ] note on passive fire safety systems
+
+## Air conditioners
+ - [ ] Measure ceiling, floor and window areas in cubic meatures and ask advice on which air-conditioners is the right size, e.g. too powerful an AC will result in too much humidity resulting in a damp feeling and potentially condensation.
+ - [ ] Type of air-conditioners: central ducted air conditioner, wind and through the wall, split system, multi-split system, and portable.  Inverter systems installed on each will enable greater control of fan speed and cooling temperature and are arguably more energy efficient.  Reverse cycle systems can also provide heating.
+ - [ ] J5.2 Air-conditioning and ventilation systems. 
+ - [ ] J5.3 Time switch. 
+ - [ ] J5.4 Heating and cooling systems. 
+ - [ ] J5.5 Miscellaneous exhaust systems. 
+
+## Light
+Safeguard occupants from injury, illness or loss of amenity due to isolation from natural light, and/or artifical light:
+ - [ ] J6.ODeemed-to-Satisfy Provisions. 
+ - [ ] J6.2 Artificial lighting. 
+ - [ ] J6.3 Interior artificial lighting and power control. 
+ - [ ] J6.4 Interior decorative and display lighting. 
+ - [ ] J6.5 Artificial lighting around the perimeter of a building. 
+ - [ ] F4.O Deemed-to-Satisfy Provision. 
+ - [ ] F4.4 Artificial lighting. 
+ - [ ] F4.1 Provision of natural light. 
+ - [ ] F4.2 methods and extent of natural lighting. 
+ - [ ] F4.3 Natural light borrowed from adjoining room. 
+
+## Ventilation 
+ - [ ] F4.O Deemed-to Satisfy Provisions. 
+ - [ ] F4.5 Ventilation of rooms. 
+ - [ ] F4.6 Natural ventilation. 
+ - [ ] F4.7 Ventilation borrowed from adjoining rooms. 
+ - [ ] F4.8 Restriction on position of water closets and urinals. 
+ - [ ] F4.9 Airlocks. 
+ - [ ] F4.11 Car parks. 
+ - [ ] F4.12 Kitchen local exhaust ventilation. 
+
+## Ventilation systems, energy efficiency 
+To reduce greehouse gas emissions through efficient use of energy:
+ - [ ] J5.O Deemed-to-Satisfy Provisions. 
+ - [ ] ?5.2 Air-conditioning and ventilation systems. 
+ - [ ] J5.3 Time switch. 
+ - [ ] J5.5 Miscellaneous exhaust systems. 
+
+## Wet areas
+ - [ ] water penetration
+ - [ ] waterproofing membrane systems
+ - [ ] non-slip and trafficable finishes
+ - [ ] control joint sealing
+ - [ ] subterranean waterproofing
+ - [ ] dampcourse
+ - [ ] plant room sealing/bunding 
+ - [ ] wet area membrances
+ - [ ] basement waterproofing especially for car parks re hydroscatic water pressure
+ - [ ] balcony and roof-deck areas
+ - [ ] landscaping: planter box, rooftop gardens, green roofs, podium landscape, etc
+
+## Swimming pool structure and safety
+ - [ ] 
+ - [ ] 
+
+## Facade / cladding systems
+ - [ ] external facade sealing
+ - [ ] 
+
+## wall lining and insulation
+ - [ ] asdf
+ - [ ] 
+
+sarking
+weatherproofing
+condensation mitigation
+
