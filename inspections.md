@@ -15,6 +15,3 @@ Minimum inspections determined by risk based assessment and liaison with enginee
 ## Inspection requirements
   - [ ] Inspector: Qualified Building Surveyor and/or proxy consultant skilled practitioner with appropriate published qualifications.
   - [ ] Report including: (a) date of inspection, (b) who completed the statuatory inspection, (c) those present for inspection, (d) details of the site, building and relevant building approval, (e) scope of the inspection in/out of scope, (f) compaliance of feature as per NCC criteria, (g) outcome of inspection: alteration/rectification/passed, (h) reinspection required and (i) shared documents with relevant building stakeholders including all (j) certificates of compliance.
-
-# Inspection checklist
-
