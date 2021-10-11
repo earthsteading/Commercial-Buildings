@@ -243,17 +243,15 @@ To reduce greehouse gas emissions through efficient use of energy:
  - [ ] J5.5 Miscellaneous exhaust systems. 
 
 ## Wet areas
- - [ ] water penetration
- - [ ] waterproofing membrane systems
- - [ ] non-slip and trafficable finishes
- - [ ] control joint sealing
- - [ ] subterranean waterproofing
- - [ ] dampcourse
- - [ ] plant room sealing/bunding 
- - [ ] wet area membrances
- - [ ] basement waterproofing especially for car parks re hydroscatic water pressure
- - [ ] balcony and roof-deck areas
- - [ ] landscaping: planter box, rooftop gardens, green roofs, podium landscape, etc
+ - [ ] AS 4072-2005 water/fire penetration
+ - [ ] AS 3740-2010 waterproofing membrane systems
+ - [ ] AS 4586-2013 non-slip and trafficable finishes
+ - [ ] AS 4072-2005 control joint sealing
+ - [ ] AS/NZS 3500 subterranean waterproofing
+ - [ ] AS/NZS 2904-1995 damp-proof course
+ - [ ] AS 1670 plant room with fire system
+ - [ ] AS 3740 wet area membrances
+ - [ ] AS/NZS 3500 basement waterproofing especially for car parks re hydroscatic water pressure
 
 ## Swimming pool structure and safety
  - [ ] 
