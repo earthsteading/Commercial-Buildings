@@ -4,10 +4,11 @@ Description: checklists to obtain building permits for commercial structures inc
 # Timelines
 Chronlogical process for approvals to obtain a building permit for a commercial structure:
 
- 1. [Site preparation, including excavation, footings, basements and structural foundations](https://github.com/earthsteading/commercial-buildings/blob/main/site-prep.md)
- 2. [Structural materials, including timber, brickwork, concrete, steel and earth](https://github.com/earthsteading/commercial-buildings/blob/main/structural-materials.md)
- 3. [Superstrcuture construction, including: formwork, beams, grids, floors, walls, etc](https://github.com/earthsteading/commercial-buildings/blob/main/superstructure.md)
- 4. [Commissiong of final commercial structure for occupancy permit](https://github.com/earthsteading/commercial-buildings/blob/main/commissioning.md)
+ 1. [Planning inspections with the build team](https://github.com/earthsteading/commercial-buildings/blob/main/inspections.md)
+ 2. [Site preparation, including excavation, footings, basements and structural foundations](https://github.com/earthsteading/commercial-buildings/blob/main/site-prep.md)
+ 3. [Structural materials, including timber, brickwork, concrete, steel and earth](https://github.com/earthsteading/commercial-buildings/blob/main/structural-materials.md)
+ 4. [Superstrcuture construction, including: formwork, beams, grids, floors, walls, etc](https://github.com/earthsteading/commercial-buildings/blob/main/superstructure.md)
+ 5. [Commissiong of final commercial structure for occupancy permit](https://github.com/earthsteading/commercial-buildings/blob/main/commissioning.md)
 
 ## Acronyms and terminology
 All construction terms are referenced via the [National Construction Dictionary](https://www.constructiondictionary.com.au/search)
