@@ -3,7 +3,7 @@ While legislation only requires a minimum of five inspections for a building, it
 
 ## Standards / Legislation
 
- - Certificate of compliance = certicicate issued for a prescribed structural component or design element which gives the statuatory building surveyor immunity.
+ - Certificate of compliance = certificate issued for a prescribed structural component or design element which gives the statuatory building surveyor immunity.
 
 ## Building complexity levels
 Minimum inspections determined by risk based assessment and liaison with engineers re appropriate inspections points.
@@ -13,5 +13,5 @@ Minimum inspections determined by risk based assessment and liaison with enginee
   - [ ] All inspections evaluated against NCC Vol.1 and/or Performance Solution via skilled practitioner.
 
 ## Inspection requirements
-  - [ ] Inspector: Qualified Building Surveyor and/or proxy consultant skilled practitioner with appropriate published qualifications.
-  - [ ] Report including: (a) date of inspection, (b) who completed the statuatory inspection, (c) those present for inspection, (d) details of the site, building and relevant building approval, (e) scope of the inspection in/out of scope, (f) compaliance of feature as per NCC criteria, (g) outcome of inspection: alteration/rectification/passed, (h) reinspection required and (i) shared documents with relevant building stakeholders including all (j) certificates of compliance.
+  - [ ] Inspector(s): Qualified Building Surveyor and/or proxy consultant skilled practitioner with appropriate published qualifications.
+  - [ ] Report(s) including: (a) date of inspection, (b) who completed the statuatory inspection, (c) those present for inspection, (d) details of the site, building and relevant building approval, (e) scope of the inspection in/out of scope, (f) compaliance of feature as per NCC criteria, (g) outcome of inspection: alteration/rectification/passed, (h) reinspection required and (i) shared documents with relevant building stakeholders including all (j) certificates of compliance.
