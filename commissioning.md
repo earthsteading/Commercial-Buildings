@@ -1,6 +1,15 @@
 
 # Commissioning a commercial building
 
+## Priorities
+  - [ ] Exit door furniture – single lever action escape without the use of a key or other latching devices. Applies only to designated exit doors.
+  - [ ] Disabled access into and through the building – no door thresholds or lips to prevent wheelchair access or if so, they have the small angles threshold wedges installed to get up and over any lips. External surfaces graded to the front entry to allow wheelchair access. Main front entry should have accessible signage installed that identifies it as the accessible entrance.
+  - [ ] All wet areas sealed.
+  - [ ] Accessible toilet compliant – grab railing installed, accessible signage on the door, privacy latch fitted, etc.
+  - [ ] Illuminated exit signage installed.
+  - [ ] Portable fire extinguishers installed.  
+  - [ ] The building internally and externally just generally finished and sealed.
+
 ## Standards:
  - [ ]  ISO/IEC 17065:2013 conformity assessment requirements for bodies certifying products, processes and services.
  - [ ]  AS 1851 inspection, testing and maitenance requiremenbts for commercial buildings.
