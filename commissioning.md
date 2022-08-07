@@ -147,6 +147,9 @@ To safeguard occupants by warning them of fire so they may have time to evacuate
  - [ ] SPEC-E2.2c Specification E2.2c Smoke-and-Heat Vents. 
  - [ ] SPEC-E2.2c Specification E2.2c Smoke-and-Heat Vents. 
 
+![image](https://user-images.githubusercontent.com/146181/183315825-df73a262-ef82-4aad-8ffe-00e4810978dd.png)
+
+
 ## Smoke lobby, seperation and walls
  - [ ] D2.6 Smoke lobbies.
  - [ ] C2.14 Public corridors in Class 2 and 3 buildings.
