@@ -30,6 +30,35 @@ The drawings should include the following information:
  - Where a compression ignition engine-driven pump is installed, confirmation that the engine is capable of operating continuously on full load at the site elevation for a period of 6 h and that the conditions governing the heating and ventilation of the engine room specified in AS 2941 are complied with. Where automatic pumps form one or both of the supplies, pump characteristic curves to be provided, showing the estimated performance of the pumps under installed conditions. 
 
 ## Hazard classification systems
+![image](https://user-images.githubusercontent.com/146181/183348076-e7fb928f-0ad8-49ea-bdaa-2f91cebe5326.png)
+![image](https://user-images.githubusercontent.com/146181/183348257-db40832d-14c9-430c-b9e3-c32e4e627f79.png)
+![image](https://user-images.githubusercontent.com/146181/183348566-0203eadb-7e96-424b-b574-d4f7d2522e04.png)
 
+![image](https://user-images.githubusercontent.com/146181/183347381-bb1b4c8e-f877-425a-9d73-2d34d65cd2ff.png)
+![image](https://user-images.githubusercontent.com/146181/183347408-74d2cce9-2957-4f35-8a67-92b46b35fc75.png)
+![image](https://user-images.githubusercontent.com/146181/183347544-40f537f8-1c2e-4801-b00b-4019902ad199.png)
+![image](https://user-images.githubusercontent.com/146181/183347777-8ed6266f-27af-4a5b-9709-02184e4cc25f.png)
+![image](https://user-images.githubusercontent.com/146181/183347826-81412097-9d04-4e33-bc1c-7303523be9c0.png)
+![image](https://user-images.githubusercontent.com/146181/183347906-2efb2696-b76e-49e1-8852-1fce4977adc2.png)
+![image](https://user-images.githubusercontent.com/146181/183347945-0030cd18-729b-43c3-8d51-cab5f891a408.png)
+![image](https://user-images.githubusercontent.com/146181/183347984-5e331ccd-0c22-4456-96b8-ceb2f7c4c082.png)
+![image](https://user-images.githubusercontent.com/146181/183348171-c0ffa9c9-e2b9-4acb-9ef0-93e482bce4c9.png)
+![image](https://user-images.githubusercontent.com/146181/183348309-f92eecc4-be8a-499a-96e8-b8ad0d8aa62a.png)
+
+![image](https://user-images.githubusercontent.com/146181/183346772-afff4e3a-dcfa-4572-94e8-7fa187b58b9a.png)
 ![image](https://user-images.githubusercontent.com/146181/183327360-443e7e77-6c1d-459b-8fe2-15dd0222b603.png)
 ![image](https://user-images.githubusercontent.com/146181/183327437-c976cb12-7c6a-4408-b9d1-aa3f91175e8f.png)
+![image](https://user-images.githubusercontent.com/146181/183346722-d16b3d9c-3eb6-4387-9a01-b1ba554f1ae3.png)
+![image](https://user-images.githubusercontent.com/146181/183346809-9d951ac2-5b11-4945-89da-bd1e0d80db78.png)
+![image](https://user-images.githubusercontent.com/146181/183346850-36d9d266-6f7e-402b-a9e4-c85568e187ed.png)
+![image](https://user-images.githubusercontent.com/146181/183346875-3946b39a-6544-4074-8f1c-6b1ce20d725f.png)
+![image](https://user-images.githubusercontent.com/146181/183346962-1c62ddf2-f57d-4b45-8bfb-de0170868f39.png)
+![image](https://user-images.githubusercontent.com/146181/183347039-4c15cde9-7e3c-400d-8d27-e6e2a0736841.png)
+![image](https://user-images.githubusercontent.com/146181/183347099-4f2dda10-a247-4bfa-b297-73243d6a72ef.png)
+![image](https://user-images.githubusercontent.com/146181/183347714-e49be52d-07f2-4361-b370-f3473d9f52c0.png)
+
+![image](https://user-images.githubusercontent.com/146181/183347137-8fd5e258-0b16-4187-85e4-7b38dce377e1.png)
+![image](https://user-images.githubusercontent.com/146181/183347279-4ffb3503-b9fa-43fc-a40d-13ea52d2551f.png)
+
+
+
