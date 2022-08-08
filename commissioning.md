@@ -146,8 +146,23 @@ To safeguard occupants by warning them of fire so they may have time to evacuate
  - [ ] SPEC-E2.2b Specification E2.2b Smoke Exhaust Systems. 
  - [ ] SPEC-E2.2c Specification E2.2c Smoke-and-Heat Vents. 
  - [ ] SPEC-E2.2c Specification E2.2c Smoke-and-Heat Vents. 
+ - [ ] AS1668 Part1(2015), Part2(2012)
 
+![image](https://user-images.githubusercontent.com/146181/183315951-deb4edfb-1787-4d23-a3e8-71043a4a27ec.png)
 ![image](https://user-images.githubusercontent.com/146181/183315825-df73a262-ef82-4aad-8ffe-00e4810978dd.png)
+![image](https://user-images.githubusercontent.com/146181/183315961-bce417b1-a57d-4acf-931a-8165be47eee7.png)
+![image](https://user-images.githubusercontent.com/146181/183316055-e450a3c9-615b-4b8d-a56a-b8f7c425ae21.png)
+![image](https://user-images.githubusercontent.com/146181/183316267-945a297c-ca81-498c-85ce-d12221482c29.png)
+![image](https://user-images.githubusercontent.com/146181/183316283-e33c218f-fe4e-4693-a2da-19f28a85c0e5.png)
+![image](https://user-images.githubusercontent.com/146181/183316305-9d833932-4e75-41f4-b087-911b41a9e297.png)
+![image](https://user-images.githubusercontent.com/146181/183316318-d5c2dfd4-3f31-4d9e-8574-7a76eaf4d181.png)
+![image](https://user-images.githubusercontent.com/146181/183316337-c0d04108-caa4-4af4-85b6-2930d22ee1ea.png)
+![image](https://user-images.githubusercontent.com/146181/183316350-6c898730-b6b6-459a-9e8e-60f90217f640.png)
+![image](https://user-images.githubusercontent.com/146181/183316376-22b4fe8d-877e-4df4-b87a-b5e0b5fa84f0.png)
+![image](https://user-images.githubusercontent.com/146181/183316383-2257b7e0-67e5-4880-a1c1-363358117955.png)
+
+
+
 
 
 ## Smoke lobby, seperation and walls
