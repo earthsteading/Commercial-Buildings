@@ -174,6 +174,13 @@ To safeguard occupants by warning them of fire so they may have time to evacuate
 ![image](https://user-images.githubusercontent.com/146181/183318060-c53730cd-d2bc-4e60-a2d6-a5055a931980.png)
 ![image](https://user-images.githubusercontent.com/146181/183318362-b375afe5-d223-482d-88e8-93e5a9e9f7d0.png)
 ![image](https://user-images.githubusercontent.com/146181/183318423-bbc2e256-0e00-4912-af6a-6315637800b8.png)
+![image](https://user-images.githubusercontent.com/146181/183318513-dbbf5783-78c3-4c7e-a1cf-a1c6aa78f2a4.png)
+![image](https://user-images.githubusercontent.com/146181/183318527-3267a7ef-6eb4-4be3-98f3-c7b33753f443.png)
+![image](https://user-images.githubusercontent.com/146181/183318543-c16440bc-070a-49fc-b998-20da85473beb.png)
+![image](https://user-images.githubusercontent.com/146181/183318566-05bd9d2c-9d30-4f4d-aa7c-3cb018ed8f69.png)
+![image](https://user-images.githubusercontent.com/146181/183318620-e19768ee-a985-49f8-b248-ffc7847f18f9.png)
+![image](https://user-images.githubusercontent.com/146181/183318638-4e0f546d-124c-4ac1-ac7e-62266aa8740e.png)
+![image](https://user-images.githubusercontent.com/146181/183318766-6f262c81-e873-4f45-b119-56856f8af455.png)
 
 
 
