@@ -7,7 +7,7 @@ Chronlogical process for approvals to obtain a building permit for a commercial 
  1. [Planning inspections with the build team](https://github.com/earthsteading/commercial-buildings/blob/main/inspections.md)
  2. [Site preparation, including excavation, footings, basements and structural foundations](https://github.com/earthsteading/commercial-buildings/blob/main/site-prep.md)
  3. [Structural materials, including timber, brickwork, concrete, steel and earth](https://github.com/earthsteading/commercial-buildings/blob/main/structural-materials.md)
- 4. [Superstrcuture construction, including: formwork, beams, grids, floors, walls, etc](https://github.com/earthsteading/commercial-buildings/blob/main/superstructure.md)
+ 4. [Superstructure construction, including: formwork, beams, grids, floors, walls, etc](https://github.com/earthsteading/commercial-buildings/blob/main/superstructure.md)
  5. [Commissiong of final commercial structure for occupancy permit](https://github.com/earthsteading/commercial-buildings/blob/main/commissioning.md)
 
 ## Acronyms and terminology
