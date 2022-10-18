@@ -1,4 +1,4 @@
-# Inspection and surveying schematics for checking fire sprinkler systems in commercial buildings
+# Inspection and surveying checklists for fire sprinkler systems in commercial buildings
 
 "That's a heat detector at the top of the lift shaft.  Therefore it doesn't comply with Spec E1.5 and you need spandrels." - The Brains Trust
 
@@ -7,12 +7,11 @@
   - [ ] AS2118.6 Combined sprinnkler and hydrant systems in multistorey buildings (highrise = +25m)
   - [ ] AS2118.4 Sprinkler protection for accomodation buildings not exceeding four storeys in height.
 
-
 ## Building componets
 See National Construction Dictionary for definitions, synonymous grouping are my own:
  - [ ] CLASSIFICATION: occupancy hazards (light / ordinary / high / hazardous commodities)
  - [ ] TYPES of sprinkler systems: wet (not for freezing conditions), alternative wet-dry (composite alarm), dry (gas pressure for below freezing), pre-action (non-interlock, single interlock, double interlock is safest to avoid inadvertent water discharge), recycling pre-action, deluge (special hazard high velocity sprinklers), tail-end, tail-end anti-freeze.
- - [ ] DESIGN: a sprinkler system (valves, alarms, pipework, sprinklers, water and systems including: wet, alternate wet/dry, pre-action, recycling, deluge, tail-end, anti-freeze), sprinkler compartment, design area enclosure, design density, sprinkler protected area, spray (parabolic discharge pattern below plane of device), DBEP designated building entry point, DSEP designated site entry point, fire/draught stop bulkhead, imperforate non-shatterable material, 
+ - [ ] DESIGN: a sprinkler system (valves, alarms, pipework, sprinklers, water and systems including: wet, alternate wet/dry, pre-action, recycling, deluge, tail-end, anti-freeze), sprinkler compartment, design area enclosure, design density, sprinkler protected area, spray (parabolic discharge pattern below plane of device), DBEP designated building entry point, DSEP designated site entry point, fire/draught stop bulkhead, imperforate non-shatterable material, shielding from cooling, 
  - [ ] DEVICE SENSORS: water motor alarms, monitoring centre trasmitor to fire brigade, valve monitors, alarm signalling equipment (ASE)
  - [ ] DEVICE ACTUATORS: sprinklers (concealed, conventional, dry pendant, dry sidewall, dry upright, extended coverage, flush, high hazard storage), sprayers (medium & high velocity), nozzle extinguisher, NPSH net positive suction head --> pump design, inlet head, atmosphereic pressure, vapour pressure, alarm trigger via pressure fall, alarm valves (wet), alarm valves (dry), non-return valve,  heat sensitive sealed valves, deluge and pre-action valves, stop valves and non-return valves, pressure reducing valves, exhauster flow and fan system for ducts
  - [ ] HUMANS: fire dispatch centre, network utility operator, 
@@ -49,6 +48,8 @@ The drawings should include the following information:
  - [ ]  Where a compression ignition engine-driven pump is installed, confirmation that the engine is capable of operating continuously on full load at the site elevation for a period of 6 h and that the conditions governing the heating and ventilation of the engine room specified in AS 2941 are complied with. Where automatic pumps form one or both of the supplies, pump characteristic curves to be provided, showing the estimated performance of the pumps under installed conditions. 
 
 ## Hazard classification systems
+![sprinkler spacing](https://user-images.githubusercontent.com/146181/196335626-632c0d06-855a-4a1f-b7a7-0700d146d467.png)
+
 ![image](https://user-images.githubusercontent.com/146181/183348076-e7fb928f-0ad8-49ea-bdaa-2f91cebe5326.png)
 ![image](https://user-images.githubusercontent.com/146181/183348257-db40832d-14c9-430c-b9e3-c32e4e627f79.png)
 ![image](https://user-images.githubusercontent.com/146181/183348566-0203eadb-7e96-424b-b574-d4f7d2522e04.png)
