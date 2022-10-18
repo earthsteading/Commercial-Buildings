@@ -9,6 +9,7 @@
   - [ ] AS2118.4 Sprinkler accomodation buildings not exceeding 4 storeys
   - [ ] AS2118.5 HOme fire sprinkler systems
   - [ ] AS2118.6 Combined sprinnkler and hydrant systems in multistorey buildings (highrise = +25m)
+  - [ ] AS2941 Fire hydrants
   - [ ] AS4118 Fire sprinkler systems (Parts 1-8 including: sprinklers, alarm valves, water motor alarms, valve monitors, deluge and pre-action valves, stop valves, non return valves, alarm dry valves, presure reducing valves and piping).
   - [ ] AS4428.6 Alarm signalling equipment
   - [ ] AS1670.3 Alarm monitorring and fire dispatch centre
@@ -19,7 +20,7 @@
   - [ ] HB 233 Fire protection system testing water conservation
   - [ ] AS3500.1 Plumbing
 
-## Building componets
+## Typical Sprinkler System Building Componets
 See National Construction Dictionary for definitions, synonymous grouping are my own:
  - [ ] HUMANS: fire dispatch centre, network utility operator, fire brigade, in-house security, 
  - [ ] CLASSIFICATION: occupancy hazards (light / ordinary / high / hazardous commodities)
@@ -34,7 +35,16 @@ See National Construction Dictionary for definitions, synonymous grouping are my
  - [ ] SPECIAL REQUIREMENTS: high voltage, farm silos, ovens/kilns, commercial cooking equipment, NCC fire-isolated passageways, storage capacity and fire load of stored materials.
  - [ ] TESTS for accepting: pressure tests, equipment tests, water supply test, maintenance testing, comissioning completion certificate.
 
-# Detailed drawing requirements
+### Multistorey buildings
+ - [ ] Combined system integrating sprinklers and hydrants using combined piping reticulation and supply.
+ - [ ] Sprinkler stop valve signage "COMBINED FIRE HYDRANT AND SPRINKLER STOP VALVE(S) INSIDE"
+ - [ ] System schematic provided in following location: fire brigade booster location, fire control room, fire pump room, at each level with sprinkler assemblies, water supply isolation valves, hydrants, reels, water storage tanks, pumps.
+ - [ ] System schematic info: year of installation, areas protected, hazard classification, design densities, pressure and flow requirements for sprinkler and hydrant, number of hydrants simultanesouly operated, location of fire brigade booster, floor block layout plans,  control assemblies, pressure reducing stations valve list, 
+
+![image](https://user-images.githubusercontent.com/146181/196345847-7b8eb783-bc5b-4595-9216-22be7ce0cf12.png)
+
+
+# Detailed fire life safety drawing requirements
 Detailed working drawings and all relevant documentation applicable to the sprinkler system, giving the information below, should be provided to the relevant authority. The drawings should be on an indicated scale not less than l: 100. NOTE: In exceptional cases, a scale of 1:200 may be accepted. 
 
 The drawings should include the following information: 
@@ -94,6 +104,24 @@ Supporting sprinkler componets:
  - [ ] shadowed area design ![image](https://user-images.githubusercontent.com/146181/183347714-e49be52d-07f2-4361-b370-f3473d9f52c0.png)
  - [ ] water supply manifold ![image](https://user-images.githubusercontent.com/146181/183347137-8fd5e258-0b16-4187-85e4-7b38dce377e1.png)
  - [ ] schematic for water main supply ![image](https://user-images.githubusercontent.com/146181/183347279-4ffb3503-b9fa-43fc-a40d-13ea52d2551f.png)
+ - [ ] architectural drawing symbols ![image](https://user-images.githubusercontent.com/146181/196346118-a35c0518-7e85-42fd-b19e-f8d58c6c8296.png)
+ - [ ] multistorey system layout schematics ![image](https://user-images.githubusercontent.com/146181/196346239-4f71dcce-d43d-49ca-8587-374a2563d43d.png)
+ - [ ] multistorey stair placement ![image](https://user-images.githubusercontent.com/146181/196346363-f0a1326e-9889-48cd-ac60-b1d3bf755e96.png)
+ - [ ] typical sprinkler control assembly ![image](https://user-images.githubusercontent.com/146181/196346501-f8a67746-08a9-4bb8-82c6-9bb179dbae9d.png)
+ - [ ] Level by level system schematic ![image](https://user-images.githubusercontent.com/146181/196346639-78efc957-afa8-4b9f-a70d-e0a117655411.png)
+ - [ ] Typical zone pressure control scheme ![image](https://user-images.githubusercontent.com/146181/196346717-175bc946-ae32-4369-9809-a1c78d426add.png)
+ - [ ] multistorey operating pressure example ![image](https://user-images.githubusercontent.com/146181/196346877-e109ef57-dc18-46ee-91e9-a5e4c5c9e693.png)
+ - [ ] Typical on-site storage tank ![image](https://user-images.githubusercontent.com/146181/196347043-100cfe69-0f98-4142-b0da-51899f0dcd48.png)
+ - [ ] example calculation for water supply tank size ![image](https://user-images.githubusercontent.com/146181/196347293-b80e3045-9c4a-4475-a614-309f159d4aac.png)
+
+
+
+
+
+
+
+
+
 
 
 
