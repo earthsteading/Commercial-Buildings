@@ -48,15 +48,16 @@ The drawings should include the following information:
  - [ ]  Where a compression ignition engine-driven pump is installed, confirmation that the engine is capable of operating continuously on full load at the site elevation for a period of 6 h and that the conditions governing the heating and ventilation of the engine room specified in AS 2941 are complied with. Where automatic pumps form one or both of the supplies, pump characteristic curves to be provided, showing the estimated performance of the pumps under installed conditions. 
 
 ## Hazard classification systems
+Placement:
 ![sprinkler spacing](https://user-images.githubusercontent.com/146181/196335626-632c0d06-855a-4a1f-b7a7-0700d146d467.png)
-
 ![image](https://user-images.githubusercontent.com/146181/183348076-e7fb928f-0ad8-49ea-bdaa-2f91cebe5326.png)
 ![image](https://user-images.githubusercontent.com/146181/183348257-db40832d-14c9-430c-b9e3-c32e4e627f79.png)
 ![image](https://user-images.githubusercontent.com/146181/183348566-0203eadb-7e96-424b-b574-d4f7d2522e04.png)
-
 ![image](https://user-images.githubusercontent.com/146181/183347381-bb1b4c8e-f877-425a-9d73-2d34d65cd2ff.png)
 ![image](https://user-images.githubusercontent.com/146181/183347408-74d2cce9-2957-4f35-8a67-92b46b35fc75.png)
 ![image](https://user-images.githubusercontent.com/146181/183347544-40f537f8-1c2e-4801-b00b-4019902ad199.png)
+
+Schematics: 
 ![image](https://user-images.githubusercontent.com/146181/183347777-8ed6266f-27af-4a5b-9709-02184e4cc25f.png)
 ![image](https://user-images.githubusercontent.com/146181/183347826-81412097-9d04-4e33-bc1c-7303523be9c0.png)
 ![image](https://user-images.githubusercontent.com/146181/183347906-2efb2696-b76e-49e1-8852-1fce4977adc2.png)
