@@ -4,19 +4,35 @@
 
 ## Standards and referenced documents for this inspection checklist
   - [ ] AS2118.1 Automatic fire sprinkler systems
+  - [ ] AS2118.2 Drencher systems
+  - [ ] AS2118.3 Deluge systems
+  - [ ] AS2118.4 Sprinkler accomodation buildings not exceeding 4 storeys
+  - [ ] AS2118.5 HOme fire sprinkler systems
   - [ ] AS2118.6 Combined sprinnkler and hydrant systems in multistorey buildings (highrise = +25m)
-  - [ ] AS2118.4 Sprinkler protection for accomodation buildings not exceeding four storeys in height.
+  - [ ] AS4118 Fire sprinkler systems (Parts 1-8 including: sprinklers, alarm valves, water motor alarms, valve monitors, deluge and pre-action valves, stop valves, non return valves, alarm dry valves, presure reducing valves and piping).
+  - [ ] AS4428.6 Alarm signalling equipment
+  - [ ] AS1670.3 Alarm monitorring and fire dispatch centre
+  - [ ] AS1851 Routine service of fire protection services equipment
+  - [ ] AS7240 Fire detection and alarm systems
+  - [ ] AS7240.4 Power supply equipment
+  - [ ] ASTM: D92 (celevaland open cup test) & D240 (bomb calorimeter)
+  - [ ] HB 233 Fire protection system testing water conservation
+  - [ ] AS3500.1 Plumbing
 
 ## Building componets
 See National Construction Dictionary for definitions, synonymous grouping are my own:
+ - [ ] HUMANS: fire dispatch centre, network utility operator, fire brigade, in-house security, 
  - [ ] CLASSIFICATION: occupancy hazards (light / ordinary / high / hazardous commodities)
  - [ ] TYPES of sprinkler systems: wet (not for freezing conditions), alternative wet-dry (composite alarm), dry (gas pressure for below freezing), pre-action (non-interlock, single interlock, double interlock is safest to avoid inadvertent water discharge), recycling pre-action, deluge (special hazard high velocity sprinklers), tail-end, tail-end anti-freeze.
  - [ ] DESIGN: a sprinkler system (valves, alarms, pipework, sprinklers, water and systems including: wet, alternate wet/dry, pre-action, recycling, deluge, tail-end, anti-freeze), sprinkler compartment, design area enclosure, design density, sprinkler protected area, spray (parabolic discharge pattern below plane of device), DBEP designated building entry point, DSEP designated site entry point, fire/draught stop bulkhead, imperforate non-shatterable material, shielding from cooling, 
- - [ ] DEVICE SENSORS: water motor alarms, monitoring centre trasmitor to fire brigade, valve monitors, alarm signalling equipment (ASE)
- - [ ] DEVICE ACTUATORS: sprinklers (concealed, conventional, dry pendant, dry sidewall, dry upright, extended coverage, flush, high hazard storage), sprayers (medium & high velocity), nozzle extinguisher, NPSH net positive suction head --> pump design, inlet head, atmosphereic pressure, vapour pressure, alarm trigger via pressure fall, alarm valves (wet), alarm valves (dry), non-return valve,  heat sensitive sealed valves, deluge and pre-action valves, stop valves and non-return valves, pressure reducing valves, exhauster flow and fan system for ducts
- - [ ] HUMANS: fire dispatch centre, network utility operator, 
- - [ ] MEASUERMENTS: maximum flow rate =130%, response time index (RTI)
- - [ ] OMITTED: high voltage, farm silos, ovens/kilns, commercial cooking equipment, NCC fire-isolated passageways.
+ - [ ] DEVICE SENSORS: class A or B monitors (status, tamper, bypass, water supply, backflow prevention isolating, main/subsidary stop valves, power supply for pump, battery voltage, fuel for compression ignition engine-driven pump), water motor alarms, monitoring centre trasmitor to fire brigade, valve monitors, alarm signalling equipment (ASE)
+ - [ ] DEVICE ACTUATORS: sprinklers (concealed, conventional, spray, dry pendant, dry sidewall, dry upright, extended coverage, recessed, flush, high hazard storage extra large oriface, high velocity sprayers), sprayers (medium & high velocity), nozzle extinguisher, NPSH net positive suction head --> pump design, inlet head, atmosphereic pressure, vapour pressure, alarm trigger via pressure fall, alarm valves (wet), alarm valves (dry), non-return valve,  heat sensitive sealed valves, deluge and pre-action valves, stop valves and non-return valves, pressure reducing valves, exhauster flow and fan system for ducts, tank suction piping, pumpsets (single and dual supply via AS2941), electric/fuel driven pumps, fire brigade booster assembly.
+ - [ ] SUPPORTING FIXTURES: piping, hook bolts, u-bolts, u-hangers, pipe bands, pipe support trapeze bar, threaded galzanized rod, ducts, supports, range pipes, risers, 
+ - [ ] WATER SOURCE: town mains water, on-site water mains, reticulated water supply system, rivers / lakes / damns with automatic pumpset, elevated resevoirs or gravity tank, bores via tanks and suction tank with automatic pumps, concrete / steel tanks with hydraulic componets
+ - [ ] SIGNALLING: single signal to monitorring centre for control assemblies, placarding sign for control assemblies, pressure and flow switch labelled with function, voltage and current.
+ - [ ] MEASUERMENTS: maximum flow rate =130%, response time index (RTI), flow, residual pressure = 95% of time, metering flow prevetion calculation, effective capacity via vortex plate AS2304, suction piping AS2941, pump start controllers, hydraulic K factor, temperature rating color coding, pipe sizing diameter nominal = DN 50, chemical heat combustion data, hydrostatic pressure test MPa kPa static working pressure. 
+ - [ ] SPECIAL REQUIREMENTS: high voltage, farm silos, ovens/kilns, commercial cooking equipment, NCC fire-isolated passageways, storage capacity and fire load of stored materials.
+ - [ ] TESTS for accepting: pressure tests, equipment tests, water supply test, maintenance testing, comissioning completion certificate.
 
 # Detailed drawing requirements
 Detailed working drawings and all relevant documentation applicable to the sprinkler system, giving the information below, should be provided to the relevant authority. The drawings should be on an indicated scale not less than l: 100. NOTE: In exceptional cases, a scale of 1:200 may be accepted. 
@@ -47,7 +63,7 @@ The drawings should include the following information:
  - [ ]  A detailed drawing of water supplies and piping from the water supplies to the control assembly, indicating the position and type of stop and back-pressure valves and pressure-reducing valves, water meters, water cocks and orifice plates, and any connection other than those for sprinklers. Where the water supplies include a water main, the nominal diameter to be stated and the relevant pressure and flow characteristics, and whether the main is dead-end or circulating; if dead-end, details of the nearest circulating main. 
  - [ ]  Where a compression ignition engine-driven pump is installed, confirmation that the engine is capable of operating continuously on full load at the site elevation for a period of 6 h and that the conditions governing the heating and ventilation of the engine room specified in AS 2941 are complied with. Where automatic pumps form one or both of the supplies, pump characteristic curves to be provided, showing the estimated performance of the pumps under installed conditions. 
 
-## Hazard classification systems
+## Typical drawings and schematics
 Placement:
  - [ ] ![sprinkler spacing](https://user-images.githubusercontent.com/146181/196335626-632c0d06-855a-4a1f-b7a7-0700d146d467.png)
  - [ ] ![image](https://user-images.githubusercontent.com/146181/183348076-e7fb928f-0ad8-49ea-bdaa-2f91cebe5326.png)
