@@ -35,14 +35,15 @@ See National Construction Dictionary for definitions, synonymous grouping are my
  - [ ] SPECIAL REQUIREMENTS: high voltage, farm silos, ovens/kilns, commercial cooking equipment, NCC fire-isolated passageways, storage capacity and fire load of stored materials.
  - [ ] TESTS for accepting: pressure tests, equipment tests, water supply test, maintenance testing, comissioning completion certificate.
 
-### Multistorey buildings
+### Accomodation buildings not exceeding 4 storeys height AS2118.4
+ - [ ] Class 2 Apartment, 3 Residential & 9C Aged Care
+ - [ ] Requirement for Single Occupancy Units (SOUs)
+
+### Multistorey buildings AS2118.6
  - [ ] Combined system integrating sprinklers and hydrants using combined piping reticulation and supply.
  - [ ] Sprinkler stop valve signage "COMBINED FIRE HYDRANT AND SPRINKLER STOP VALVE(S) INSIDE"
  - [ ] System schematic provided in following location: fire brigade booster location, fire control room, fire pump room, at each level with sprinkler assemblies, water supply isolation valves, hydrants, reels, water storage tanks, pumps.
- - [ ] System schematic info: year of installation, areas protected, hazard classification, design densities, pressure and flow requirements for sprinkler and hydrant, number of hydrants simultanesouly operated, location of fire brigade booster, floor block layout plans,  control assemblies, pressure reducing stations valve list, 
-
-![image](https://user-images.githubusercontent.com/146181/196345847-7b8eb783-bc5b-4595-9216-22be7ce0cf12.png)
-
+ - [ ] System schematic info: year of installation, areas protected, hazard classification, design densities, pressure and flow requirements for sprinkler and hydrant, number of hydrants simultanesouly operated, location of fire brigade booster, floor block layout plans,  control assemblies, pressure reducing stations valve list.
 
 # Detailed fire life safety drawing requirements
 Detailed working drawings and all relevant documentation applicable to the sprinkler system, giving the information below, should be provided to the relevant authority. The drawings should be on an indicated scale not less than l: 100. NOTE: In exceptional cases, a scale of 1:200 may be accepted. 
@@ -113,6 +114,7 @@ Supporting sprinkler componets:
  - [ ] multistorey operating pressure example ![image](https://user-images.githubusercontent.com/146181/196346877-e109ef57-dc18-46ee-91e9-a5e4c5c9e693.png)
  - [ ] Typical on-site storage tank ![image](https://user-images.githubusercontent.com/146181/196347043-100cfe69-0f98-4142-b0da-51899f0dcd48.png)
  - [ ] example calculation for water supply tank size ![image](https://user-images.githubusercontent.com/146181/196347293-b80e3045-9c4a-4475-a614-309f159d4aac.png)
+ - [ ] typical pressure schedule ![image](https://user-images.githubusercontent.com/146181/196345847-7b8eb783-bc5b-4595-9216-22be7ce0cf12.png)
 
 
 
