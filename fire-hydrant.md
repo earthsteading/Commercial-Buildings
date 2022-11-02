@@ -2,7 +2,7 @@
 
 ## Reference documents
 AS2419 series
-  - [ ] Part 1 System design, installation and commissioning
+  - [ ] Part 1 System design, installation and commissioning, including Appendix B (Class 2 to 9 not more than 25m in height), Appendix C (large isolated with volume of 108,000m3, Appendix D (Class 2 to 9) with effective height more than 135m, Appendix E (special hazards like chemical plants, oil refineries, etc), 
   - [ ] Part 2 Fire hydrant valves
   - [ ] Part 3 Fire brigade booster connections
   - [ ] Part 4 Storz connections for firefighting purposes
@@ -37,7 +37,14 @@ The following set of schematics are used for assuring the inspection requirement
 
 ### Firefighting operations
 
+Hydrant requirements:
+  - [ ] ![image](https://user-images.githubusercontent.com/146181/199374281-32dbbc6c-ce73-47da-adc0-bbb5c59b0723.png)
+  - [ ] ![image](https://user-images.githubusercontent.com/146181/199374320-c12d22c0-368c-41e1-8818-def9a7c9ddc8.png)
+  - [ ] ![image](https://user-images.githubusercontent.com/146181/199374423-d10ba86f-7c10-4292-90ee-e70a462c4b93.png)
+  - [ ] ![image](https://user-images.githubusercontent.com/146181/199374478-a7a37383-e21e-40d5-a8fd-7f5b67500d91.png)
+
 Hydrant system design for fire brigade access:
+  - [ ] ![image](https://user-images.githubusercontent.com/146181/199375936-9a7aa9c2-d65b-42cf-9a9f-2c7b98a765be.png)
   - [ ] ![image](https://user-images.githubusercontent.com/146181/199372658-8f5be77a-7ffb-453e-a254-6a91de756b73.png)
   - [ ] ![image](https://user-images.githubusercontent.com/146181/199372703-e0ca458c-41a4-4e38-a07f-f8d28b9c0cc1.png)
   - [ ] ![image](https://user-images.githubusercontent.com/146181/199372780-4a43f965-09e4-41bc-bd5b-a1107b936776.png)
@@ -52,6 +59,9 @@ Fire truck operations:
   - [ ] ![image](https://user-images.githubusercontent.com/146181/199373398-c876c710-d29e-438c-a1aa-3f6eecbac676.png)
   - [ ] ![image](https://user-images.githubusercontent.com/146181/199373476-43baa0a8-cd8e-4156-96df-4136b3904b1f.png)
   - [ ] ![image](https://user-images.githubusercontent.com/146181/199373525-f0367e49-a0d0-42f9-8daa-1c1fbf6eec42.png)
+
+Water supplies (tanks):
+  - [ ] 
 
 Booster assemblies:
   - [ ] Booster assembly designed for flow rate of 30-40L/s ![image](https://user-images.githubusercontent.com/146181/199372238-767e144b-e1ca-48bd-83f5-b0142099ff5f.png)
