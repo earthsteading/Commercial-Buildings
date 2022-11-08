@@ -1,4 +1,6 @@
-# combustability checklist
+# Checklist for fire combustion in external walls
+
+The following provides a checklist for investigating fire combustion of external walls in commerical buildings.
 
 ## Referenced standards, legislation and definitions
 
@@ -21,6 +23,51 @@
   - [ ] "integrated" = the wall would not be a complete external wall system with the integration of the building component. 
   - [ ] fixed, installed, attached = building component is connected by mechanical and/or checmical fixings.
 
+# Checklists
+
+## human checklist
+
+## machine checklist
+The below code is written in ruby with the following commands strictly defined:
+ - [x] IF = The code between if and end is executed when the expression evaluates to true.
+ - [ ] UNLESS = Executes code if conditional is false. If the conditional is true, code specified in the ELSE clause is executed.
+ - [x] ELSE = An if statement can include an else clause to specify code to be executed if the condition is not true.
+ - [x] ELSIF = ELSE+IF
+ - [x] WHEN = case expressions (when+puts) is an alternative to the if-elsif-else expression.
+ - [x] PUTS
+ - [x] END
+
+if-elsif-else expression:
+```ruby
+#!/usr/bin/ruby
+
+x = 1
+if x > 2
+   puts "x is greater than 2"
+elsif x <= 2 and x!=0
+   puts "x is 1"
+else
+   puts "I can't guess the number"
+end
+```
+Case expression example:
+```ruby
+#!/usr/bin/ruby
+
+$age =  5
+case $age
+when 0 .. 2
+   puts "baby"
+when 3 .. 6
+   puts "little child"
+when 7 .. 12
+   puts "child"
+when 13 .. 18
+   puts "youth"
+else
+   puts "adult"
+end
+```
 
 ## Reference schematics
   - [ ] Planter box attached or integrated into external wall? ![image](https://user-images.githubusercontent.com/146181/200691751-e2b86346-704e-42e0-914e-c2c7c1cc599a.png)
