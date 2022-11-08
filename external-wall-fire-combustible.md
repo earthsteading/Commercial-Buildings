@@ -4,7 +4,8 @@ The following provides a checklist for investigating fire combustion of external
 
 ## Referenced standards, legislation and definitions
 
-  - [ ] NCC2022v1 C1P2 Spread of Fire
+  - [ ] NCC2022v1 C1P1 Structural stability during a dire
+  - [ ] NCC2022v1 C1P2 Spread of fire
   - [ ] NCC2022v1 C2D10 Non-combustible building elements
   - [ ] NCC2022v1 C2D11 Fire hazard properties
   - [ ] NCC2022v1 C2D14 Ancillary elements
@@ -24,8 +25,13 @@ The following provides a checklist for investigating fire combustion of external
   - [ ] fixed, installed, attached = building component is connected by mechanical and/or checmical fixings.
 
 # Checklists
-
+Checklists for evaluating the combustability of external walls.
 ## human checklist
+
+Checklists for humans who think they are better than machines ;-)
+
+  - [ ] item 1
+  - [ ] item 2
 
 ## machine checklist
 The below code is written in ruby with the following commands strictly defined:
