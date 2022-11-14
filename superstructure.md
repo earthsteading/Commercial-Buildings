@@ -28,7 +28,7 @@ Australian Standards:
  - AS1530 methods for fire tests on building materials, componets and structures
  - AS1562 design and installation of sheet roof and wall cladding
 
-# Reference values of imposed floor action (loading)
+# Reference values of imposed floor action (loading) AS1170 Table 3.1
 
 ![image](https://user-images.githubusercontent.com/146181/201782117-de0eb0b6-8c02-48fb-8d6b-6ab6283bd281.png)
 ![image](https://user-images.githubusercontent.com/146181/201782160-db8c1a8f-57e7-44bd-bc75-6eb4d4bbec81.png)
