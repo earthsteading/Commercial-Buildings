@@ -49,3 +49,11 @@ Notes from Professional Development Training Kingspan Insulation with Robert Seb
 ![image](https://user-images.githubusercontent.com/146181/220500203-72a89a9c-fac4-49d6-b641-2123a8ff6f9c.png)
 ![image](https://user-images.githubusercontent.com/146181/220500240-a39f61f7-654b-4754-8038-78dd64e04911.png)
 
+(g) Kingspan provides several services for evaluating wall and ceiling risk:
+![image](https://user-images.githubusercontent.com/146181/220500907-086657c8-c689-453c-9a0e-9b24f46bf872.png)
+![image](https://user-images.githubusercontent.com/146181/220500937-d69e27e2-4c76-472d-ae1e-a69c93b9f5b1.png)
+![image](https://user-images.githubusercontent.com/146181/220500969-06c66091-5c8d-440f-8ee5-d4f5e0566a88.png)
+![image](https://user-images.githubusercontent.com/146181/220500992-c5bfd5fb-a6be-467a-903d-f796a8b4e27f.png)
+
+
+
