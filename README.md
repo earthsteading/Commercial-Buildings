@@ -15,6 +15,11 @@ All construction terms are referenced via the [National Construction Dictionary]
   * ABCB = Australian Building Codes Board
   * NCC aka BCA = National Construction Code / Building Code of Australia
 
+## Resources
+
+  - https://www.sria.com.au/publication-construction
+  - 
+
 
 
 
